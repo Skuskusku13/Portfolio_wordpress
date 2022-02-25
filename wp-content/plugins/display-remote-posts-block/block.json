@@ -1,0 +1,38 @@
+{
+    "name": "display-remote-posts-block/display-remote-posts",
+    "title": "Display Remote Posts",
+    "category": "embed",
+    "parent": [ "core/group" ],
+    "icon": "admin-post",
+    "description": "Block to display recent posts from a WordPress or Blogger blog",
+    "keywords": [
+        "blog",
+        "blogger",
+        "jetpack"
+    ],
+    "textdomain": "display-remote-posts-block",
+    "attributes": {
+		"url": {
+			"type": "string",
+			"default": ""
+		},
+		"title": {
+			"type": "boolean",
+			"default": true
+		},
+		"posts": {
+			"type": "number",
+			"default": 1
+		},
+		"featured_images": {
+			"type": "boolean",
+			"default": true
+		},
+		"excerpts": {
+			"type": "boolean",
+			"default": true
+		}
+    },
+    "script": "file:./build/index.js",
+    "style": ""
+}

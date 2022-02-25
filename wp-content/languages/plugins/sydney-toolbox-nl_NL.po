@@ -1,0 +1,1064 @@
+# Translation of Plugins - Sydney Toolbox - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Sydney Toolbox - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-28 14:20:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Sydney Toolbox - Development (trunk)\n"
+
+#: inc/elementor/block-slider.php:453
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/elementor/block-slider.php:407
+msgid "Show navigation"
+msgstr "Toon navigatie"
+
+#: inc/elementor/block-slider.php:398
+msgid "Show pagination"
+msgstr "Toon paginering"
+
+#: inc/elementor/block-slider.php:232
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/elementor/block-slider.php:231
+msgid "Contain"
+msgstr "Bevat"
+
+#: inc/elementor/block-slider.php:230
+msgid "Cover"
+msgstr "Omslagafbeelding"
+
+#: inc/elementor/block-employee-carousel.php:42
+msgid "aThemes: Employee carousel"
+msgstr "aThemes: Werknemer carrousel"
+
+#: inc/elementor/block-employee-carousel.php:87
+msgid "Employee Carousel"
+msgstr "Medewerker Carrousel"
+
+#: inc/elementor/block-employee-carousel.php:168
+msgid "Employee list"
+msgstr "Werknemerslijst"
+
+#: inc/elementor/block-employee-carousel.php:99
+#: inc/elementor/block-employee.php:110
+msgid "Choose Image"
+msgstr "Afbeelding kiezen"
+
+#: inc/elementor/block-employee-carousel.php:110
+#: inc/elementor/block-employee-carousel.php:113
+#: inc/elementor/block-employee-carousel.php:237
+#: inc/elementor/block-employee.php:122 inc/elementor/block-employee.php:270
+msgid "Employee name"
+msgstr "Naam werknemer"
+
+#: inc/elementor/block-employee-carousel.php:114
+#: inc/elementor/block-employee-carousel.php:173
+#: inc/elementor/block-employee.php:124
+#: inc/elementor/block-testimonials.php:113
+#: inc/elementor/block-testimonials.php:149
+msgid "John Doe"
+msgstr "John Doe"
+
+#: inc/elementor/block-employee-carousel.php:121
+#: inc/elementor/block-employee.php:133
+#: inc/elementor/block-testimonials.php:234
+msgid "Position"
+msgstr "Positie"
+
+#: inc/elementor/block-employee-carousel.php:123
+#: inc/elementor/block-employee.php:135
+msgid "General Manager"
+msgstr "Algemeen directeur"
+
+#: inc/elementor/block-employee-carousel.php:124
+#: inc/elementor/block-employee.php:136
+msgid "Enter the position"
+msgstr "Voer de positie in"
+
+#: inc/elementor/block-employee-carousel.php:132
+#: inc/elementor/block-employee.php:157
+msgid "Facebook link"
+msgstr "Facebook-link"
+
+#: inc/elementor/block-employee-carousel.php:141
+#: inc/elementor/block-employee.php:166
+msgid "Twitter link"
+msgstr "Twitter-link"
+
+#: inc/elementor/block-employee-carousel.php:150
+#: inc/elementor/block-employee.php:175
+msgid "Linkedin link"
+msgstr "Linkedin link"
+
+#: inc/elementor/block-employee-carousel.php:159
+#: inc/elementor/block-employee.php:186
+msgid "Link (for person's name)"
+msgstr "Link (voor naam van persoon)"
+
+#: inc/elementor/block-employee-carousel.php:201
+#: inc/elementor/block-employee.php:199 inc/elementor/block-gallery.php:194
+#: inc/elementor/block-posts.php:178 inc/elementor/block-pricing.php:191
+#: inc/elementor/block-slider.php:345 inc/elementor/block-testimonials.php:166
+#: inc/elementor/block-timeline.php:199
+msgid "View"
+msgstr "Visie"
+
+#: inc/elementor/block-employee-carousel.php:213
+#: inc/elementor/block-employee.php:211 inc/elementor/block-gallery.php:206
+#: inc/elementor/block-testimonials.php:178
+msgid "General"
+msgstr "Algemeen"
+
+#: inc/elementor/block-employee-carousel.php:220
+#: inc/elementor/block-employee-carousel.php:244
+#: inc/elementor/block-employee-carousel.php:276
+#: inc/elementor/block-employee.php:218 inc/elementor/block-employee.php:277
+#: inc/elementor/block-employee.php:309 inc/elementor/block-gallery.php:237
+#: inc/elementor/block-portfolio.php:385 inc/elementor/block-portfolio.php:465
+#: inc/elementor/block-portfolio.php:494 inc/elementor/block-portfolio.php:523
+#: inc/elementor/block-portfolio.php:552 inc/elementor/block-portfolio.php:607
+#: inc/elementor/block-posts.php:198 inc/elementor/block-posts.php:275
+#: inc/elementor/block-posts.php:307 inc/elementor/block-pricing.php:211
+#: inc/elementor/block-pricing.php:247 inc/elementor/block-pricing.php:283
+#: inc/elementor/block-testimonials.php:185
+#: inc/elementor/block-testimonials.php:210
+#: inc/elementor/block-testimonials.php:241
+#: inc/elementor/block-testimonials.php:272
+#: inc/elementor/block-timeline.php:218 inc/elementor/block-timeline.php:249
+#: inc/elementor/block-timeline.php:281
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/elementor/block-employee.php:42
+msgid "aThemes: Employee"
+msgstr "aThemes: Employee"
+
+#: inc/elementor/block-employee.php:96 inc/elementor/block-gallery.php:95
+#: inc/elementor/block-posts.php:99 inc/elementor/block-slider.php:197
+#: inc/elementor/block-timeline.php:94
+msgid "Style"
+msgstr "Stijl"
+
+#: inc/elementor/block-employee.php:99 inc/elementor/block-gallery.php:98
+#: inc/elementor/block-posts.php:102 inc/elementor/block-timeline.php:97
+msgid "Style 1"
+msgstr "Stijl 1"
+
+#: inc/elementor/block-employee.php:100 inc/elementor/block-gallery.php:99
+#: inc/elementor/block-posts.php:103 inc/elementor/block-timeline.php:98
+msgid "Style 2"
+msgstr "Stijl 2"
+
+#: inc/elementor/block-employee.php:125
+msgid "Enter the name"
+msgstr "Voer de naam in"
+
+#: inc/elementor/block-portfolio.php:46
+msgid "aThemes: Portfolio"
+msgstr "aThemes: Portfolio"
+
+#: inc/customizer/portfolio.php:12 inc/elementor/block-gallery.php:87
+#: inc/elementor/block-portfolio.php:95 inc/post-type-sydney-projects.php:28
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: inc/elementor/block-gallery.php:162
+msgid "Projects list"
+msgstr "Lijst met projecten"
+
+#: inc/elementor/block-employee-carousel.php:174
+#: inc/elementor/block-testimonials.php:125
+#: inc/elementor/block-testimonials.php:150
+#: inc/elementor/block-testimonials.php:155
+msgid "Manager"
+msgstr "Manager"
+
+#: inc/elementor/block-testimonials.php:137
+#: inc/elementor/block-testimonials.php:151
+#: inc/elementor/block-testimonials.php:156
+#: inc/elementor/block-timeline.php:162 inc/elementor/block-timeline.php:180
+#: inc/elementor/block-timeline.php:189
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id purus neque. Curabitur pulvinar elementum neque in dictum. Sed non lectus nec tortor iaculis tincidunt."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id purus neque. Curabitur pulvinar elementum neque in dictum. Sed non lectus nec tortor iaculis tincidunt."
+
+#: inc/elementor/block-testimonials.php:154
+msgid "James Stevens"
+msgstr "James Stevens"
+
+#: inc/elementor/block-gallery.php:112
+msgid "Image"
+msgstr "Afbeelding"
+
+#: inc/elementor/block-gallery.php:124 inc/elementor/block-gallery.php:127
+#: inc/elementor/block-slider.php:418
+msgid "Title"
+msgstr "Titel"
+
+#: inc/elementor/block-gallery.php:128 inc/elementor/block-gallery.php:230
+msgid "Project title"
+msgstr "Project titel"
+
+#: inc/elementor/block-gallery.php:135
+msgid "Filter term"
+msgstr "Filter term"
+
+#: inc/elementor/block-gallery.php:138
+msgid "Term for the filter"
+msgstr "Term voor het filter"
+
+#: inc/elementor/block-gallery.php:139
+msgid "Art"
+msgstr "Kunst"
+
+#: inc/elementor/block-gallery.php:146
+msgid "Link"
+msgstr "Koppeling"
+
+#: inc/elementor/block-gallery.php:149
+msgid "Link for this project"
+msgstr "Link voor dit project"
+
+#: inc/elementor/block-gallery.php:213
+msgid "Main color"
+msgstr "Hoofdkleur"
+
+#: inc/elementor/block-gallery.php:262 inc/elementor/block-portfolio.php:378
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/elementor/block-posts.php:42
+msgid "aThemes: Posts"
+msgstr "aThemes: Berichten"
+
+#: inc/elementor/block-posts.php:91
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/elementor/block-posts.php:113
+msgid "Number of posts"
+msgstr "Aantal berichten"
+
+#: inc/elementor/block-portfolio.php:485 inc/elementor/block-posts.php:122
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/elementor/block-posts.php:133
+msgid "See all button text"
+msgstr "Alle knoptekst weergeven"
+
+#: inc/elementor/block-posts.php:135
+msgid "See all our news"
+msgstr "Bekijk al ons nieuws"
+
+#: inc/elementor/block-posts.php:191
+msgid "Post title"
+msgstr "Titel plaatsen"
+
+#: inc/elementor/block-posts.php:230
+msgid "Meta text"
+msgstr "Metatekst"
+
+#: inc/elementor/block-posts.php:242
+msgid "Meta links"
+msgstr "Meta links"
+
+#: inc/elementor/block-posts.php:268
+msgid "Post content"
+msgstr "Inhoud plaatsen"
+
+#: inc/elementor/block-posts.php:300
+msgid "Carousel dots"
+msgstr "Carrousel punten"
+
+#: inc/elementor/block-posts.php:323 inc/elementor/block-pricing.php:359
+#: inc/elementor/block-slider.php:488
+msgid "Button"
+msgstr "Knop"
+
+#: inc/elementor/block-posts.php:342 inc/elementor/block-pricing.php:378
+#: inc/elementor/block-slider.php:507
+msgid "Normal"
+msgstr "Normaal"
+
+#: inc/elementor/block-posts.php:349 inc/elementor/block-posts.php:382
+#: inc/elementor/block-pricing.php:385 inc/elementor/block-pricing.php:418
+#: inc/elementor/block-slider.php:426 inc/elementor/block-slider.php:461
+#: inc/elementor/block-slider.php:514 inc/elementor/block-slider.php:550
+msgid "Text Color"
+msgstr "Tekst kleur"
+
+#: inc/elementor/block-posts.php:375 inc/elementor/block-pricing.php:411
+#: inc/elementor/block-slider.php:543
+msgid "Hover"
+msgstr "Hover"
+
+#: inc/elementor/block-posts.php:420 inc/elementor/block-pricing.php:456
+#: inc/elementor/block-slider.php:586
+msgid "Hover Animation"
+msgstr "Hover animatie"
+
+#: inc/elementor/block-posts.php:443 inc/elementor/block-pricing.php:479
+#: inc/elementor/block-slider.php:609
+msgid "Border Radius"
+msgstr "Rand radius"
+
+#: inc/elementor/block-posts.php:470 inc/elementor/block-pricing.php:506
+#: inc/elementor/block-slider.php:629
+msgid "Padding"
+msgstr "Vulling"
+
+#: inc/elementor/block-pricing.php:42
+msgid "aThemes: Pricing table"
+msgstr "aThemes: Prijstabel"
+
+#: inc/elementor/block-pricing.php:87
+msgid "Icon List"
+msgstr "Pictogramenlijst"
+
+#: inc/elementor/block-pricing.php:94 inc/elementor/block-pricing.php:204
+msgid "Currency"
+msgstr "Valuta"
+
+#: inc/elementor/block-pricing.php:104 inc/elementor/block-pricing.php:107
+#: inc/elementor/block-pricing.php:240
+msgid "Price"
+msgstr "Prijs"
+
+#: inc/elementor/block-pricing.php:115 inc/elementor/block-pricing.php:118
+#: inc/elementor/block-pricing.php:276
+msgid "Period"
+msgstr "Periode"
+
+#: inc/elementor/block-pricing.php:117
+msgid "month"
+msgstr "maand"
+
+#: inc/elementor/block-pricing.php:125 inc/elementor/block-testimonials.php:203
+msgid "Name"
+msgstr "Naam"
+
+#: inc/elementor/block-pricing.php:127
+msgid "Agency"
+msgstr "Agentschap"
+
+#: inc/elementor/block-pricing.php:128
+msgid "Plan name"
+msgstr "Naam van plan"
+
+#: inc/elementor/block-pricing.php:139 inc/elementor/block-pricing.php:140
+#: inc/elementor/block-pricing.php:153 inc/elementor/block-pricing.php:156
+#: inc/elementor/block-pricing.php:159
+msgid "Just a feature"
+msgstr "Gewoon een functie"
+
+#: inc/elementor/block-pricing.php:137
+msgid "Feature name"
+msgstr "Functienaam"
+
+#: inc/elementor/block-pricing.php:169
+msgid "Button URL"
+msgstr "Knop URL"
+
+#: inc/elementor/block-pricing.php:174
+msgid "http://example.org"
+msgstr "http://example.org"
+
+#: inc/elementor/block-pricing.php:181 inc/elementor/block-pricing.php:184
+#: inc/elementor/block-slider.php:125 inc/elementor/block-slider.php:135
+msgid "Button text"
+msgstr "Knop tekst"
+
+#: inc/elementor/block-pricing.php:183 inc/elementor/block-slider.php:127
+#: inc/elementor/block-testimonials.php:110
+#: inc/elementor/block-testimonials.php:122
+#: inc/elementor/block-testimonials.php:134
+msgid "Click me"
+msgstr "Klik hier"
+
+#: inc/elementor/block-pricing.php:221 inc/elementor/block-pricing.php:257
+#: inc/elementor/block-pricing.php:293
+msgid "Size"
+msgstr "Grootte"
+
+#: inc/elementor/block-pricing.php:312
+msgid "Table header"
+msgstr "Tabelheader"
+
+#: inc/elementor/block-pricing.php:330
+msgid "Padding top/bottom"
+msgstr "Padding boven/onder"
+
+#: inc/elementor/block-testimonials.php:97
+msgid "Client photo"
+msgstr "Foto van klant"
+
+#: inc/elementor/block-testimonials.php:108
+#: inc/elementor/block-testimonials.php:112
+msgid "Client name"
+msgstr "Klantnaam"
+
+#: inc/elementor/block-testimonials.php:120
+#: inc/elementor/block-testimonials.php:124
+msgid "Client position"
+msgstr "Klantpositie"
+
+#: inc/elementor/block-timeline.php:42
+msgid "aThemes: Timeline"
+msgstr "aThemes: Tijdlijn"
+
+#: inc/elementor/block-timeline.php:87
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+#: inc/elementor/block-timeline.php:114 inc/elementor/block-timeline.php:174
+msgid "Our company was founded"
+msgstr "Ons bedrijf is opgericht"
+
+#: inc/elementor/block-timeline.php:183
+msgid "First contract"
+msgstr "Eerste contract"
+
+#: inc/elementor/block-timeline.php:110 inc/elementor/block-timeline.php:113
+msgid "Item name"
+msgstr "Itemnaam"
+
+#: inc/elementor/block-timeline.php:121
+msgid "Icon"
+msgstr "Pictogram"
+
+#: inc/elementor/block-timeline.php:123 inc/elementor/block-timeline.php:138
+msgid "Available for Style 1"
+msgstr "Beschikbaar voor stijl 1"
+
+#: inc/elementor/block-timeline.php:136
+msgid "Icon color"
+msgstr "Pictogramkleur"
+
+#: inc/elementor/block-timeline.php:147
+msgid "Date"
+msgstr "Datum"
+
+#: inc/elementor/block-timeline.php:150 inc/elementor/block-timeline.php:242
+#: inc/metaboxes/timeline-metabox.php:86
+msgid "Event date"
+msgstr "Datum evenement"
+
+#: inc/elementor/block-timeline.php:158 inc/elementor/block-timeline.php:274
+msgid "Event description"
+msgstr "Beschrijving van het evenement"
+
+#: inc/elementor/block-employee.php:144 inc/elementor/block-slider.php:115
+#: inc/elementor/block-timeline.php:161
+msgid "Description"
+msgstr "Beschrijving"
+
+#: inc/elementor/block-timeline.php:211
+msgid "Event title"
+msgstr "Titel van het evenement"
+
+#: inc/elementor/block-employee-carousel.php:134
+#: inc/elementor/block-employee-carousel.php:143
+#: inc/elementor/block-employee-carousel.php:152
+#: inc/elementor/block-employee-carousel.php:161
+#: inc/elementor/block-employee.php:159 inc/elementor/block-employee.php:168
+#: inc/elementor/block-employee.php:177 inc/elementor/block-employee.php:188
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: inc/elementor/block-testimonials.php:42
+msgid "aThemes: Testimonials"
+msgstr "aThemes: Aanbevelingen"
+
+#: inc/elementor/block-posts.php:223
+msgid "Post meta"
+msgstr "Bericht meta"
+
+#: inc/elementor/block-posts.php:361 inc/elementor/block-posts.php:394
+#: inc/elementor/block-pricing.php:319 inc/elementor/block-pricing.php:397
+#: inc/elementor/block-pricing.php:430 inc/elementor/block-slider.php:526
+#: inc/elementor/block-slider.php:561
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/elementor/block-posts.php:406 inc/elementor/block-pricing.php:442
+#: inc/elementor/block-slider.php:572
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: sydney-toolbox.php:155
+msgid "Sydney Toolbox requires PHP 5.4. Please contact your host to upgrade your PHP. The plugin was <strong>not</strong> activated."
+msgstr "Voor Sydney Toolbox is PHP 5.4 vereist. Neem contact op met je host om je PHP te upgraden. De plugin is <strong>niet</strong> geactiveerd."
+
+#: sydney-toolbox.php:145
+msgid "Sydney Elements"
+msgstr "Sydney Elements"
+
+#. Plugin Name of the plugin
+msgid "Sydney Toolbox"
+msgstr "Sydney Toolbox"
+
+#: inc/post-type-timeline.php:52
+msgid "A post type for your timeline events"
+msgstr "Een berichttype voor je tijdlijn gebeurtenissen"
+
+#. Plugin URI of the plugin
+msgid "http://athemes.com/plugins/sydney-toolbox"
+msgstr "http://athemes.com/plugins/sydney-toolbox"
+
+#. Description of the plugin
+msgid "Registers custom post types and custom fields for the Sydney theme"
+msgstr "Registreert aangepaste berichttypen en aangepaste velden voor het Sydney-thema"
+
+#. Author of the plugin
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Author URI of the plugin
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#: sydney-toolbox.php:174
+msgid "Please note that the <strong>Sydney Toolbox</strong> plugin is meant to be used only with the <a href=\"http://wordpress.org/themes/sydney/\" target=\"_blank\">Sydney theme</a></p>"
+msgstr "Houd er rekening mee dat de plugin <strong>Sydney Toolbox</strong> alleen is bedoeld voor gebruik met het <a href=\"http://wordpress.org/themes/sydney/\" target=\"_blank\"> Sydney theme</a></p>"
+
+#: inc/post-type-timeline.php:34
+msgid "Edit Event"
+msgstr "Activiteit bewerken"
+
+#: inc/post-type-timeline.php:35
+msgid "Update Event"
+msgstr "Voorstelling bijwerken"
+
+#: inc/post-type-timeline.php:36
+msgid "View Event"
+msgstr "Bekijk activiteit"
+
+#: inc/post-type-timeline.php:37
+msgid "Search Event"
+msgstr "Zoek evenement"
+
+#: inc/post-type-timeline.php:51
+msgid "Event"
+msgstr "Voorstelling"
+
+#: inc/post-type-timeline.php:31 inc/post-type-timeline.php:32
+msgid "Add New Event"
+msgstr "Voeg nieuw evenement toe"
+
+#: inc/post-type-timeline.php:33
+msgid "New Event"
+msgstr "Nieuwe activiteit"
+
+#: inc/elementor/block-testimonials.php:132
+#: inc/elementor/block-testimonials.php:136
+#: inc/elementor/block-testimonials.php:265 inc/post-type-testimonials.php:46
+msgid "Testimonial"
+msgstr "Aanbeveling"
+
+#: inc/post-type-testimonials.php:31
+msgid "View Testimonial"
+msgstr "Aanbeveling bekijken"
+
+#: inc/post-type-testimonials.php:30
+msgid "Update Testimonial"
+msgstr "Aanbeveling bijwerken"
+
+#: inc/post-type-testimonials.php:32
+msgid "Search Testimonial"
+msgstr "Aanbeveling zoeken"
+
+#: inc/post-type-testimonials.php:47
+msgid "A post type for your testimonials"
+msgstr "Een berichttype voor je aanbevelingsen"
+
+#: inc/post-type-timeline.php:24
+msgctxt "Post Type General Name"
+msgid "Timeline Events"
+msgstr "Tijdlijn gebeurtenissen"
+
+#: inc/post-type-timeline.php:25
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr "Evenement"
+
+#: inc/post-type-timeline.php:26 inc/post-type-timeline.php:27
+msgid "Timeline Events"
+msgstr "Tijdlijn gebeurtenissen"
+
+#: inc/post-type-timeline.php:30
+msgid "All Timeline Events"
+msgstr "Alle tijdlijn gebeurtenissen"
+
+#: inc/post-type-testimonials.php:25
+msgid "All Testimonials"
+msgstr "Alle aanbevelingen"
+
+#: inc/post-type-testimonials.php:26 inc/post-type-testimonials.php:27
+msgid "Add New Testimonial"
+msgstr "Nieuwe aanbeveling toevoegen"
+
+#: inc/post-type-testimonials.php:28
+msgid "New Testimonial"
+msgstr "Nieuwe aanbeveling"
+
+#: inc/post-type-testimonials.php:29
+msgid "Edit Testimonial"
+msgstr "Aanbeveling bewerken"
+
+#: inc/post-type-projects.php:31
+msgid "View Project"
+msgstr "Project bekijken"
+
+#: inc/post-type-projects.php:46 inc/post-type-sydney-projects.php:61
+msgid "Project"
+msgstr "Project"
+
+#: inc/post-type-services.php:21 inc/post-type-services.php:22
+msgid "Services"
+msgstr "Service"
+
+#: inc/post-type-services.php:46
+msgid "Service"
+msgstr "Dienst"
+
+#: inc/elementor/block-testimonials.php:87 inc/post-type-testimonials.php:21
+#: inc/post-type-testimonials.php:22
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: inc/post-type-projects.php:30 inc/post-type-sydney-projects.php:38
+msgid "Update Project"
+msgstr "Project bijwerken"
+
+#: inc/post-type-projects.php:32
+msgid "Search Project"
+msgstr "Project zoeken"
+
+#: inc/post-type-projects.php:47
+msgid "A post type for your projects"
+msgstr "Een berichttype voor je projecten"
+
+#: inc/post-type-services.php:19
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr "Diensten"
+
+#: inc/post-type-services.php:20
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr "Onderhoud"
+
+#: inc/post-type-services.php:25
+msgid "All Services"
+msgstr "Alle diensten"
+
+#: inc/post-type-services.php:26 inc/post-type-services.php:27
+msgid "Add New Service"
+msgstr "Nieuwe dienst toevoegen"
+
+#: inc/post-type-services.php:28
+msgid "New Service"
+msgstr "Nieuwe dienst"
+
+#: inc/post-type-services.php:29
+msgid "Edit Service"
+msgstr "dienst bewerken"
+
+#: inc/post-type-services.php:30
+msgid "Update Service"
+msgstr "Update dienst"
+
+#: inc/post-type-services.php:31
+msgid "View Service"
+msgstr "Dienst bekijken"
+
+#: inc/post-type-services.php:32
+msgid "Search Service"
+msgstr "Zoek dienst"
+
+#: inc/post-type-services.php:47
+msgid "A post type for your services"
+msgstr "Een berichttype voor je diensten"
+
+#: inc/post-type-testimonials.php:19
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr "Aanbevelingsen"
+
+#: inc/post-type-testimonials.php:20
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "Aanbeveling"
+
+#: inc/post-type-projects.php:25 inc/post-type-sydney-projects.php:33
+msgid "All Projects"
+msgstr "Alle projecten"
+
+#: inc/post-type-projects.php:26 inc/post-type-projects.php:27
+#: inc/post-type-sydney-projects.php:34
+msgid "Add New Project"
+msgstr "Nieuw project toevoegen"
+
+#: inc/post-type-projects.php:28 inc/post-type-sydney-projects.php:36
+msgid "New Project"
+msgstr "Nieuw project"
+
+#: inc/post-type-projects.php:29 inc/post-type-sydney-projects.php:37
+msgid "Edit Project"
+msgstr "Project bewerken"
+
+#: inc/post-type-clients.php:43 inc/post-type-employees.php:43
+#: inc/post-type-projects.php:43 inc/post-type-services.php:43
+#: inc/post-type-sydney-projects.php:52 inc/post-type-testimonials.php:43
+#: inc/post-type-timeline.php:48
+msgid "Filter items list"
+msgstr "Itemlijst filteren"
+
+#: inc/post-type-clients.php:46
+msgid "Client"
+msgstr "Klant"
+
+#: inc/post-type-projects.php:21 inc/post-type-projects.php:22
+#: inc/post-type-sydney-projects.php:29
+msgid "Projects"
+msgstr "Projecten"
+
+#: inc/post-type-clients.php:47
+msgid "A post type for your clients"
+msgstr "Een berichttype voor je klanten"
+
+#: inc/post-type-employees.php:19
+msgctxt "Post Type General Name"
+msgid "Employees"
+msgstr "Medewerkers"
+
+#: inc/post-type-employees.php:20
+msgctxt "Post Type Singular Name"
+msgid "Employee"
+msgstr "Werknemer"
+
+#: inc/post-type-employees.php:21 inc/post-type-employees.php:22
+msgid "Employees"
+msgstr "Medewerkers"
+
+#: inc/post-type-employees.php:25
+msgid "All Employees"
+msgstr "Alle werknemers"
+
+#: inc/post-type-employees.php:26 inc/post-type-employees.php:27
+msgid "Add New Employee"
+msgstr "Nieuwe werknemer toevoegen"
+
+#: inc/post-type-employees.php:28
+msgid "New Employee"
+msgstr "Nieuwe medewerker"
+
+#: inc/post-type-employees.php:29
+msgid "Edit Employee"
+msgstr "Werknemer bewerken"
+
+#: inc/post-type-employees.php:30
+msgid "Update Employee"
+msgstr "Werknemer bijwerken"
+
+#: inc/post-type-employees.php:31
+msgid "View Employee"
+msgstr "Bekijk werknemer"
+
+#: inc/post-type-employees.php:32
+msgid "Search Employee"
+msgstr "Zoek werknemer"
+
+#: inc/elementor/block-employee.php:87 inc/post-type-employees.php:46
+msgid "Employee"
+msgstr "Werknemer"
+
+#: inc/post-type-employees.php:47
+msgid "A post type for your employees"
+msgstr "Een berichttype voor je werknemers"
+
+#: inc/post-type-projects.php:19
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr "Projecten"
+
+#: inc/post-type-projects.php:20 inc/post-type-sydney-projects.php:27
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Project"
+
+#: inc/post-type-clients.php:41 inc/post-type-employees.php:41
+#: inc/post-type-projects.php:41 inc/post-type-services.php:41
+#: inc/post-type-sydney-projects.php:50 inc/post-type-sydney-projects.php:113
+#: inc/post-type-testimonials.php:41 inc/post-type-timeline.php:46
+msgid "Items list"
+msgstr "Itemlijst"
+
+#: inc/post-type-clients.php:42 inc/post-type-employees.php:42
+#: inc/post-type-projects.php:42 inc/post-type-services.php:42
+#: inc/post-type-sydney-projects.php:51 inc/post-type-sydney-projects.php:114
+#: inc/post-type-testimonials.php:42 inc/post-type-timeline.php:47
+msgid "Items list navigation"
+msgstr "Itemlijst navigatie"
+
+#: inc/post-type-clients.php:39 inc/post-type-employees.php:39
+#: inc/post-type-projects.php:39 inc/post-type-services.php:39
+#: inc/post-type-sydney-projects.php:48 inc/post-type-testimonials.php:39
+#: inc/post-type-timeline.php:44
+msgid "Insert into item"
+msgstr "In item invoegen"
+
+#: inc/post-type-clients.php:40 inc/post-type-employees.php:40
+#: inc/post-type-projects.php:40 inc/post-type-services.php:40
+#: inc/post-type-sydney-projects.php:49 inc/post-type-testimonials.php:40
+#: inc/post-type-timeline.php:45
+msgid "Uploaded to this item"
+msgstr "Geüpload naar dit item"
+
+#: inc/post-type-clients.php:38 inc/post-type-employees.php:38
+#: inc/post-type-projects.php:38 inc/post-type-services.php:38
+#: inc/post-type-sydney-projects.php:47 inc/post-type-testimonials.php:38
+#: inc/post-type-timeline.php:43
+msgid "Use as featured image"
+msgstr "Gebruik als uitgelichte afbeelding"
+
+#: inc/post-type-clients.php:36 inc/post-type-employees.php:36
+#: inc/post-type-projects.php:36 inc/post-type-services.php:36
+#: inc/post-type-sydney-projects.php:45 inc/post-type-testimonials.php:36
+#: inc/post-type-timeline.php:41
+msgid "Set featured image"
+msgstr "Stel voorkeurafbeelding in"
+
+#: inc/post-type-clients.php:37 inc/post-type-employees.php:37
+#: inc/post-type-projects.php:37 inc/post-type-services.php:37
+#: inc/post-type-sydney-projects.php:46 inc/post-type-testimonials.php:37
+#: inc/post-type-timeline.php:42
+msgid "Remove featured image"
+msgstr "Verwijder voorkeurafbeelding"
+
+#: inc/post-type-clients.php:35 inc/post-type-employees.php:35
+#: inc/post-type-projects.php:35 inc/post-type-services.php:35
+#: inc/post-type-sydney-projects.php:44 inc/post-type-testimonials.php:35
+#: inc/post-type-timeline.php:40
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: inc/post-type-clients.php:34 inc/post-type-employees.php:34
+#: inc/post-type-projects.php:34 inc/post-type-services.php:34
+#: inc/post-type-sydney-projects.php:43 inc/post-type-testimonials.php:34
+#: inc/post-type-timeline.php:39
+msgid "Not found in Trash"
+msgstr "Niet gevonden in prullenbak"
+
+#: inc/post-type-clients.php:33 inc/post-type-employees.php:33
+#: inc/post-type-projects.php:33 inc/post-type-services.php:33
+#: inc/post-type-sydney-projects.php:42 inc/post-type-testimonials.php:33
+#: inc/post-type-timeline.php:38
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: inc/post-type-clients.php:25
+msgid "All Clients"
+msgstr "Alle klanten"
+
+#: inc/post-type-clients.php:26 inc/post-type-clients.php:27
+msgid "Add New Client"
+msgstr "Nieuwe klant toevoegen"
+
+#: inc/post-type-clients.php:28
+msgid "New Client"
+msgstr "Nieuwe klant"
+
+#: inc/post-type-clients.php:29
+msgid "Edit Client"
+msgstr "Client bewerken"
+
+#: inc/post-type-clients.php:30
+msgid "Update Client"
+msgstr "Client bijwerken"
+
+#: inc/post-type-clients.php:31
+msgid "View Client"
+msgstr "Klant bekijken"
+
+#: inc/post-type-clients.php:32
+msgid "Search Client"
+msgstr "Klant zoeken"
+
+#: inc/post-type-clients.php:21 inc/post-type-clients.php:22
+msgid "Clients"
+msgstr "Klanten"
+
+#: inc/metaboxes/singles-metabox.php:102
+msgid "Check this box to hide the title"
+msgstr "Vink dit vakje aan om de titel te verbergen"
+
+#: inc/metaboxes/singles-metabox.php:103
+msgid "Content wrapper opacity"
+msgstr "Ondoorzichtigheid van inhoudswrapper"
+
+#: inc/metaboxes/singles-metabox.php:104
+msgid "Enter a value for the opacity of the white content background. Values from 0 to 1 (example 0.4)"
+msgstr "Voer een waarde in voor de dekking van de witte inhoudsachtergrond. Waarden van 0 tot 1 (voorbeeld 0.4)"
+
+#: inc/metaboxes/testimonials-metabox.php:78
+msgid "Client function/Company name"
+msgstr "Klantfunctie/Bedrijfsnaam"
+
+#: inc/metaboxes/testimonials-metabox.php:79
+msgid "Enter your client's function/company name"
+msgstr "Voer de functie/bedrijfsnaam van je klant in"
+
+#: inc/metaboxes/timeline-metabox.php:34
+msgid "Timeline info"
+msgstr "Tijdlijn info"
+
+#: inc/metaboxes/timeline-metabox.php:90
+msgid "Event icon"
+msgstr "Evenementpictogram"
+
+#: inc/metaboxes/timeline-metabox.php:87
+msgid "Add the date when this timeline event happened."
+msgstr "Voeg de datum toe waarop deze tijdlijn gebeurtenis plaatsvond."
+
+#: inc/metaboxes/timeline-metabox.php:98
+msgid "Event color"
+msgstr "Kleur van evenement"
+
+#: inc/metaboxes/timeline-metabox.php:99
+msgid "Select a color for the event icon."
+msgstr "Selecteer een kleur voor het evenement pictogram."
+
+#: inc/metaboxes/timeline-metabox.php:101
+msgid "Event link"
+msgstr "Evenement link"
+
+#: inc/metaboxes/timeline-metabox.php:102
+msgid "You can link your event to a page of your choice by entering the URL in this field"
+msgstr "Je kan je evenement koppelen aan een pagina naar keuze door de URL in dit veld in te voeren"
+
+#: inc/post-type-clients.php:19
+msgctxt "Post Type General Name"
+msgid "Clients"
+msgstr "Klanten"
+
+#: inc/post-type-clients.php:20
+msgctxt "Post Type Singular Name"
+msgid "Client"
+msgstr "Cliënt"
+
+#: inc/post-type-clients.php:23 inc/post-type-employees.php:23
+#: inc/post-type-projects.php:23 inc/post-type-services.php:23
+#: inc/post-type-sydney-projects.php:30 inc/post-type-testimonials.php:23
+#: inc/post-type-timeline.php:28
+msgid "Item Archives"
+msgstr "Item Archief"
+
+#: inc/post-type-clients.php:24 inc/post-type-employees.php:24
+#: inc/post-type-projects.php:24 inc/post-type-services.php:24
+#: inc/post-type-sydney-projects.php:32 inc/post-type-sydney-projects.php:100
+#: inc/post-type-testimonials.php:24 inc/post-type-timeline.php:29
+msgid "Parent Item:"
+msgstr "Bovenliggend item:"
+
+#: inc/elementor/block-slider.php:203 inc/metaboxes/singles-metabox.php:99
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: inc/metaboxes/clients-metabox.php:33
+#: inc/metaboxes/testimonials-metabox.php:33
+msgid "Client info"
+msgstr "Klantgegevens"
+
+#: inc/metaboxes/clients-metabox.php:76
+msgid "Client link"
+msgstr "Klantlink"
+
+#: inc/metaboxes/clients-metabox.php:77
+msgid "Add a link for the client's website here [optional]"
+msgstr "Voeg hier een link naar de site van de klant toe [optioneel]"
+
+#: inc/metaboxes/employees-metabox.php:33
+msgid "Employee info"
+msgstr "Medewerker info"
+
+#: inc/elementor/block-employee-carousel.php:269
+#: inc/elementor/block-employee.php:302 inc/metaboxes/employees-metabox.php:89
+msgid "Employee position"
+msgstr "Werknemerspositie"
+
+#: inc/metaboxes/employees-metabox.php:91
+msgid "Employee Facebook"
+msgstr "Medewerker Facebook"
+
+#: inc/metaboxes/employees-metabox.php:93
+msgid "Employee Twitter"
+msgstr "Medewerker Twitter"
+
+#: inc/metaboxes/employees-metabox.php:95
+msgid "Employee Google"
+msgstr "Google werknemer"
+
+#: inc/metaboxes/employees-metabox.php:97
+msgid "Employee Link"
+msgstr "Werknemerslink"
+
+#: inc/metaboxes/employees-metabox.php:98
+msgid "Add a link here if you want the employee name to link somewhere."
+msgstr "Voeg hier een link toe als je wil dat de naam van de werknemer ergens naartoe linkt."
+
+#: inc/metaboxes/projects-metabox.php:33
+msgid "Project info"
+msgstr "Projectinfo"
+
+#: inc/metaboxes/projects-metabox.php:76
+msgid "Project link"
+msgstr "Projectlink"
+
+#: inc/metaboxes/projects-metabox.php:77
+msgid "Add an URL here to make this project link to another page (internal or external). Leave it empty and it will default to its own page."
+msgstr "Voeg hier een URL toe om dit project te laten linken naar een andere pagina (intern of extern). Laat het leeg en het krijgt standaard een eigen pagina."
+
+#: inc/metaboxes/services-metabox.php:33
+msgid "Service info"
+msgstr "Service-info"
+
+#: inc/metaboxes/services-metabox.php:78
+msgid "Service icon"
+msgstr "Service pictogram"
+
+#: inc/metaboxes/services-metabox.php:86
+msgid "Service link"
+msgstr "Servicelink"
+
+#: inc/metaboxes/services-metabox.php:87
+msgid "You can link your service to a page of your choice by entering the URL in this field"
+msgstr "Je kan je service koppelen aan een pagina naar keuze door de URL in dit veld in te voeren"
+
+#: inc/metaboxes/singles-metabox.php:41
+msgid "Post/page options"
+msgstr "Bericht/pagina-opties"
+
+#: inc/metaboxes/singles-metabox.php:94
+msgid "Here you can control the options just for this page/post."
+msgstr "Hier kan je de opties alleen voor deze pagina/bericht beheren."
+
+#: inc/metaboxes/singles-metabox.php:96
+msgid "Background image URL"
+msgstr "URL van achtergrondafbeelding"
+
+#: inc/metaboxes/singles-metabox.php:97
+msgid "If you want to use this option, make sure you leave the next background color option empty."
+msgstr "Als je deze optie wil gebruiken, zorg er dan voor dat je de volgende achtergrondkleuroptie leeg laat."
+
+#: inc/metaboxes/timeline-metabox.php:94
+msgid "Example: <strong>fa-android</strong>. Full list of icons is <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>."
+msgstr "Voorbeeld: <strong>fa-android</strong>. De volledige lijst van pictogrammen staat <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">hier</a>."

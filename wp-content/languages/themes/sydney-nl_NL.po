@@ -1,0 +1,3045 @@
+# Translation of Themes - Sydney in Dutch
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-19 14:27:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Description of the theme
+msgid "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page. Looking for a quick start with Sydney? With just a few clicks, you can import one of our existing demos (https://athemes.com/sydney-demos/)"
+msgstr "Sydney is een krachtig zakelijk thema dat bedrijven of freelancers een snelle manier biedt om een geweldige online aanwezigheid te creëren. Sydney is niet alleen volledig compatibel met Elementor, maar biedt ook tal van aanpassingsmogelijkheden, zoals toegang tot alle Google lettertypen, volledige kleurcontrole, lay-outcontrole, logo-upload, slider op volledig scherm, header afbeelding, sticky navigatie en nog veel meer. Sydney biedt ook alle bouwstenen die je nodig hebt om snel een boeiende startpagina te maken. Op zoek naar een snelle start met Sydney? Met slechts een paar klikken kan je een van onze bestaande demo's importeren (https://athemes.com/sydney-demos/)"
+
+#. Theme Name of the theme
+#: inc/extras.php:332 inc/onboarding/theme-info.php:136
+#: inc/theme-dashboard-settings.php:21
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer/options/typography.php:475
+#: inc/customizer/options/typography.php:623
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/options/colors.php:266
+#: inc/customizer/options/typography.php:426
+msgid "Heading 6"
+msgstr "Heading 6"
+
+#: inc/customizer/options/colors.php:248
+#: inc/customizer/options/typography.php:375
+msgid "Heading 5"
+msgstr "Heading 5"
+
+#: inc/customizer/options/colors.php:230
+#: inc/customizer/options/typography.php:324
+msgid "Heading 4"
+msgstr "Heading 4"
+
+#: inc/customizer/options/colors.php:212
+#: inc/customizer/options/typography.php:273
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: inc/customizer/options/colors.php:194
+#: inc/customizer/options/typography.php:222
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: inc/customizer/options/colors.php:176
+#: inc/customizer/options/typography.php:171
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: inc/customizer/options/typography.php:139
+#: inc/customizer/options/typography.php:591
+msgid "Text decoration"
+msgstr "Tekst decoratie"
+
+#: inc/customizer/options/typography.php:96
+#: inc/customizer/options/typography.php:548
+msgid "Letter spacing"
+msgstr "Letterafstand"
+
+#: inc/customizer/options/typography.php:74
+#: inc/customizer/options/typography.php:526
+msgid "Line height"
+msgstr "Regelhoogte"
+
+#: inc/customizer/options/typography.php:62
+#: inc/customizer/options/typography.php:514
+msgid "Oblique"
+msgstr "Schuin"
+
+#: inc/customizer/options/typography.php:61
+#: inc/customizer/options/typography.php:513
+msgid "Italic"
+msgstr "Cursief"
+
+#: inc/customizer/options/typography.php:58
+#: inc/customizer/options/typography.php:510
+msgid "Font style"
+msgstr "Lettertype stijl"
+
+#: inc/customizer/options/colors.php:157
+#: inc/customizer/options/typography.php:22
+msgid "Headings"
+msgstr "Headings"
+
+#: inc/customizer/options/typography.php:11
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/customizer/options/header.php:183
+msgid "Site description font size"
+msgstr "Lettertypegrootte van sitebeschrijving"
+
+#: inc/customizer/options/header.php:112
+msgid "Site title font size"
+msgstr "Lettertypegrootte van de sitetitel"
+
+#: inc/customizer/options/general.php:110
+msgid "Enable preloader"
+msgstr "Voorlader inschakelen"
+
+#: inc/theme-update.php:113
+msgid "Continue to use the old header"
+msgstr "De oude header blijven gebruiken"
+
+#: inc/theme-update.php:107
+msgid "Note 4: Please take a full backup of your website before upgrading."
+msgstr "Opmerking 4: Maak een volledige back-up van je site voordat je gaat upgraden."
+
+#: inc/theme-update.php:98
+msgid "Note 1: this upgrade is optional, there is no need to do it if you are happy with your current header."
+msgstr "Opmerking 1: deze upgrade is optioneel, je hoeft het niet te doen als je tevreden bent met je huidige header."
+
+#: functions.php:187
+msgid "Are you sure you want to dismiss this notice?"
+msgstr "Weet je zeker dat je dit bericht wilt afwijzen?"
+
+#: inc/woocommerce.php:487
+msgid "Your cart"
+msgstr "Je winkelwagen"
+
+#: inc/woocommerce.php:477
+msgid "Your account"
+msgstr "Je account"
+
+#: inc/woocommerce.php:451
+msgid "View your shopping cart"
+msgstr "Bekijk je winkelwagen"
+
+#: inc/theme-update.php:112
+msgid "Upgrade Theme Header"
+msgstr "Thema header opwaarderen"
+
+#: inc/theme-update.php:110
+msgid "Want to see the new header options before upgrading? Check out our %s."
+msgstr "Wil je de nieuwe header opties zien voor je upgradet? Bekijk dan onze %s."
+
+#: inc/theme-update.php:104
+msgid "Note 3: this upgrade refers only to the header (site identity and menu bar). It does not change any settings regarding your hero area (slider, video etc)."
+msgstr "Opmerking 3: deze upgrade heeft alleen betrekking op de header (site identiteit en menubalk). Ze verandert niets aan de instellingen betreffende je hero sectie (slider, video enz.)."
+
+#: inc/theme-update.php:101
+msgid "Note 2: your current header customizations will be lost and you will have to use the new options to customize your header."
+msgstr "Opmerking 2: je huidige aanpassingen aan je header gaan verloren en je zult de nieuwe opties moeten gebruiken om je header aan te passen."
+
+#: inc/theme-update.php:94
+msgid "This version of Sydney comes with a new and improved header. Activate it by clicking the button below and you can access new options."
+msgstr "Deze versie van Sydney wordt geleverd met een nieuwe en verbeterde header. Activeer het door op de onderstaande knop te klikken en je krijgt toegang tot nieuwe opties."
+
+#: inc/theme-update.php:92
+msgid "Sydney Header Update"
+msgstr "Sydney header update"
+
+#: inc/theme-dashboard-settings.php:204
+msgid "Top bar"
+msgstr "Bovenste balk"
+
+#: inc/template-tags.php:184
+msgid "0 comments"
+msgstr "0 reacties"
+
+#: inc/extras.php:568
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/customizer/options/woocommerce.php:509 inc/extras.php:532
+msgid "Layout 5"
+msgstr "Lay-out 5"
+
+#: inc/customizer/options/woocommerce.php:505 inc/extras.php:528
+msgid "Layout 4"
+msgstr "Lay-out 4"
+
+#: inc/customizer/options/woocommerce-single.php:83
+#: inc/customizer/options/woocommerce.php:501 inc/extras.php:524
+#: inc/extras.php:554
+msgid "Layout 3"
+msgstr "Lay-out 3"
+
+#: inc/customizer/options/header.php:941
+msgid "Border width"
+msgstr "Randbreedte"
+
+#: inc/customizer/options/colors.php:352 inc/customizer/options/header.php:927
+msgid "Border color"
+msgstr "Randkleur"
+
+#: inc/customizer/options/header.php:911
+msgid "Border size"
+msgstr "Randgrootte"
+
+#: inc/customizer/options/header.php:875
+msgid "Bottom row padding"
+msgstr "Onderste rij padding"
+
+#: inc/customizer/options/header.php:808
+msgid "Submenu color"
+msgstr "Kleur submenu"
+
+#: inc/customizer/options/header.php:789
+msgid "Submenu background"
+msgstr "Achtergrond submenu"
+
+#: inc/customizer/options/header.php:769
+msgid "Bottom row text color"
+msgstr "Tekstkleur onderste rij"
+
+#: inc/customizer/options/header.php:749
+msgid "Bottom row background color"
+msgstr "Achtergrondkleur onderste rij"
+
+#: inc/customizer/options/header.php:689
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: inc/customizer/options/header.php:675
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: inc/customizer/options/header.php:660 inc/extras.php:571
+msgid "Contact info"
+msgstr "Contact info"
+
+#: inc/customizer/options/header.php:629
+msgid "Open in a new tab?"
+msgstr "In een nieuwe tab openen?"
+
+#: inc/customizer/options/header.php:551
+msgid "Enable account icon"
+msgstr "Account pictogram inschakelen"
+
+#: inc/customizer/options/header.php:532
+msgid "Enable cart icon"
+msgstr "Winkelwagenpictogram inschakelen"
+
+#: inc/customizer/options/header.php:513 inc/extras.php:569
+msgid "Cart &amp; account icons"
+msgstr "Winkelwagen &amp; account pictogrammen"
+
+#: inc/customizer/options/header.php:468
+msgid "Top right"
+msgstr "Rechtsboven"
+
+#: inc/customizer/options/header.php:456
+msgid "Top left"
+msgstr "Linksboven"
+
+#: inc/customizer/options/header.php:443
+msgid "Bottom row"
+msgstr "Onderste rij"
+
+#: inc/customizer/options/header.php:431
+msgid "Top row"
+msgstr "Bovenste rij"
+
+#: inc/customizer/options/header.php:349
+msgid "On scroll to top"
+msgstr "Op scroll naar boven"
+
+#: inc/customizer/options/header.php:348
+msgid "Always sticky"
+msgstr "Altijd sticky"
+
+#: inc/customizer/options/header.php:345
+msgid "Sticky header type"
+msgstr "Sticky header type"
+
+#: inc/customizer/options/header.php:331
+msgid "Enable sticky header"
+msgstr "Sticky header inschakelen"
+
+#: inc/customizer/options/header.php:291
+msgid "Menu position"
+msgstr "Menu positie"
+
+#: inc/customizer/options/header.php:277
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/customizer/options/header.php:206
+msgid "Main header"
+msgstr "Hoofd header"
+
+#: inc/customizer/options/header.php:156
+msgid "Site description color"
+msgstr "Site beschrijving kleur"
+
+#: inc/customizer/options/header.php:85
+msgid "Site title color"
+msgstr "Kleur van de sitetitel"
+
+#: inc/customizer/options/header.php:43
+msgid "Logo height"
+msgstr "Logo hoogte"
+
+#: inc/customizer/options/header-mobile.php:428
+msgid "Separator color"
+msgstr "Kleur van het scheidingsteken"
+
+#: inc/customizer/options/header-mobile.php:401
+msgid "Separator size"
+msgstr "Scheidingsteken grootte"
+
+#: inc/customizer/options/header-mobile.php:321
+msgid "Offcanvas menu"
+msgstr "Offcanvas menu"
+
+#: inc/customizer/options/header-mobile.php:284
+msgid "Top &amp; bottom padding"
+msgstr "Bovenste &amp; onderste padding"
+
+#: inc/customizer/options/header-mobile.php:233
+msgid "Menu bar"
+msgstr "Menubalk"
+
+#: inc/customizer/options/header-mobile.php:210
+msgid "Menu icon"
+msgstr "Menupictogram"
+
+#: inc/customizer/options/header-mobile.php:188
+msgid "Link spacing"
+msgstr "Link afstand"
+
+#: inc/customizer/options/header-mobile.php:174
+#: inc/customizer/options/header-mobile.php:387
+msgid "Link separator"
+msgstr "Link scheider"
+
+#: inc/customizer/options/header-mobile.php:152
+msgid "Link alignment"
+msgstr "Link uitlijning"
+
+#: inc/customizer/options/header-mobile.php:124
+msgid "Additional offcanvas elements"
+msgstr "Extra offcanvas elementen"
+
+#: inc/customizer/options/header-mobile.php:110
+#: inc/customizer/options/woocommerce-single.php:79
+#: inc/customizer/options/woocommerce.php:285
+#: inc/customizer/options/woocommerce.php:392
+#: inc/customizer/options/woocommerce.php:497
+#: inc/customizer/options/woocommerce.php:590
+#: inc/customizer/options/woocommerce.php:670 inc/extras.php:520
+#: inc/extras.php:550
+msgid "Layout 2"
+msgstr "Lay-out 2"
+
+#: inc/customizer/options/header-mobile.php:106
+#: inc/customizer/options/woocommerce-single.php:75
+#: inc/customizer/options/woocommerce.php:281
+#: inc/customizer/options/woocommerce.php:388
+#: inc/customizer/options/woocommerce.php:493
+#: inc/customizer/options/woocommerce.php:586
+#: inc/customizer/options/woocommerce.php:666 inc/extras.php:516
+#: inc/extras.php:546
+msgid "Layout 1"
+msgstr "Lay-out 1"
+
+#: inc/customizer/options/header-mobile.php:101
+msgid "Off-canvas mode"
+msgstr "Off-canvas modus"
+
+#: inc/customizer/options/header-mobile.php:71
+msgid "Additional elements"
+msgstr "Aanvullende elementen"
+
+#: inc/customizer/options/header-mobile.php:14
+msgid "Mobile header"
+msgstr "Header voor mobiel"
+
+#: inc/customizer/customizer.php:183
+msgid "Hero Slider"
+msgstr "Hero slider"
+
+#: inc/customizer/customizer.php:119
+msgid "Hero type"
+msgstr "Hero type"
+
+#: inc/customizer/customizer.php:113
+msgid "Hero area"
+msgstr "Hero gebied"
+
+#: inc/classes/class-sydney-header.php:442
+#: inc/customizer/options/header.php:685
+msgid "111222333"
+msgstr "111222333"
+
+#: inc/classes/class-sydney-header.php:441
+#: inc/customizer/options/header.php:671
+msgid "office@example.org"
+msgstr "office@example.org"
+
+#: inc/classes/class-sydney-header.php:424
+#: inc/customizer/options/header.php:593
+msgid "Click me"
+msgstr "Klik op mij"
+
+#: functions.php:183
+msgid "Are you sure you want to upgrade your header?"
+msgstr "Weet je zeker dat je je header wilt upgraden?"
+
+#: inc/template-tags.php:132
+msgctxt "post author"
+msgid "By %1$s %2$s"
+msgstr "Met %1$s %2$s"
+
+#. translators: %s: Author name
+#: inc/extras.php:420
+msgid "See all posts by %s"
+msgstr "Bekijk alle berichten van %s"
+
+#. translators: %s: Author name
+#: inc/extras.php:410
+msgid "By %s"
+msgstr "Door %s"
+
+#: inc/customizer/options/general.php:779
+msgid "Hover state"
+msgstr "Status hoveren"
+
+#: inc/customizer/options/general.php:751
+#: inc/customizer/options/general.php:833
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: inc/customizer/options/general.php:733
+#: inc/customizer/options/general.php:815
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: inc/customizer/options/general.php:697
+msgid "Default state"
+msgstr "Standaardstatus"
+
+#: inc/customizer/options/general.php:664
+#: inc/customizer/options/header.php:1031
+#: inc/customizer/options/typography.php:119
+#: inc/customizer/options/typography.php:571
+msgid "Text transform"
+msgstr "Teksttransformatie"
+
+#: inc/customizer/options/general.php:641
+#: inc/customizer/options/typography.php:197
+#: inc/customizer/options/typography.php:248
+#: inc/customizer/options/typography.php:299
+#: inc/customizer/options/typography.php:350
+#: inc/customizer/options/typography.php:401
+#: inc/customizer/options/typography.php:452
+#: inc/customizer/options/typography.php:649
+msgid "Font size"
+msgstr "Lettertypegrootte"
+
+#: inc/customizer/options/general.php:574
+msgid "Left/Right padding"
+msgstr "Opvulling links/rechts"
+
+#: inc/customizer/options/general.php:541
+msgid "Top/Bottom padding"
+msgstr "Opvulling boven/onder"
+
+#: inc/customizer/options/blog.php:717
+msgid "Excerpt color"
+msgstr "Samenvatting kleur"
+
+#: inc/customizer/options/blog.php:689
+msgid "Excerpt font size"
+msgstr "Samenvatting lettertypegrootte"
+
+#: inc/customizer/options/blog.php:621
+msgid "Meta font size"
+msgstr "Meta lettertypegrootte"
+
+#: inc/customizer/options/blog.php:552
+msgid "Post title font size"
+msgstr "Berichttitel lettertype grootte"
+
+#: inc/customizer/options/blog.php:520
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer/options/blog.php:517
+msgid "Delimiter style"
+msgstr "Scheidingsteken stijl"
+
+#: inc/customizer/options/blog.php:479
+msgid "Show author avatar"
+msgstr "Auteur avatar weergeven"
+
+#: inc/customizer/options/blog.php:446
+msgid "Below excerpt"
+msgstr "Onder samenvatting"
+
+#: inc/customizer/options/blog.php:398
+msgid "Read more link"
+msgstr "Lees meer link"
+
+#: inc/customizer/options/blog.php:358
+msgid "Show excerpt"
+msgstr "Toon samenvatting"
+
+#: inc/customizer/options/blog.php:331
+msgid "Title spacing"
+msgstr "Titelafstand"
+
+#: inc/customizer/options/blog.php:294
+#: inc/customizer/options/woocommerce.php:320
+#: inc/customizer/options/woocommerce.php:526
+msgid "Text alignment"
+msgstr "Tekstuitlijning"
+
+#: inc/customizer/options/blog.php:221
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
+
+#: inc/customizer/options/blog.php:189
+msgid "Enable featured image"
+msgstr "Uitgelichte afbeelding inschakelen"
+
+#: inc/customizer/options/blog.php:141
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/options/blog.php:140
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/blog.php:139
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/blog.php:136
+msgid "Columns"
+msgstr "Kolommen"
+
+#: inc/customizer/options/blog.php:84
+msgid "List zig-zag"
+msgstr "Lijst zigzag"
+
+#: inc/customizer/options/blog.php:80
+msgid "Masonry"
+msgstr "Metselwerk"
+
+#: inc/customizer/options/blog.php:76 inc/customizer/options/woocommerce.php:78
+msgid "List"
+msgstr "Lijst"
+
+#: inc/customizer/options/blog.php:72 inc/customizer/options/woocommerce.php:77
+msgid "Grid"
+msgstr "Raster"
+
+#: inc/customizer/options/blog.php:68
+msgid "Classic 2"
+msgstr "Klassiek 2"
+
+#: inc/customizer/options/blog.php:20
+msgid "Blog archives"
+msgstr "Blog archieven"
+
+#: inc/customizer/options/blog.php:11
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/options/blog-single.php:551
+#: inc/customizer/options/blog.php:649
+msgid "Meta color"
+msgstr "Meta kleur"
+
+#: inc/customizer/options/blog-single.php:523
+msgid "Meta size"
+msgstr "Meta grootte"
+
+#: inc/customizer/options/blog-single.php:482
+#: inc/customizer/options/blog.php:580
+msgid "Title color"
+msgstr "Titelkleur"
+
+#: inc/customizer/options/blog-single.php:454
+msgid "Post title size"
+msgstr "Berichttitel grootte"
+
+#: inc/customizer/options/blog-single.php:423
+msgid "Related posts title"
+msgstr "Titel van gerelateerde berichten"
+
+#: inc/customizer/options/blog-single.php:416 inc/extras.php:442
+msgid "You might also like:"
+msgstr "Misschien vind je het ook leuk:"
+
+#: inc/customizer/options/blog-single.php:407
+msgid "Related posts"
+msgstr "Gerelateerde berichten"
+
+#: inc/customizer/options/blog-single.php:372
+msgid "Author box"
+msgstr "Auteur box"
+
+#: inc/customizer/options/blog-single.php:355
+msgid "Post tags"
+msgstr "Bericht tags"
+
+#: inc/customizer/options/blog-single.php:338
+#: inc/customizer/options/header.php:377
+msgid "Elements"
+msgstr "Elementen"
+
+#: inc/customizer/options/blog-single.php:301
+#: inc/customizer/options/blog.php:244 inc/customizer/options/blog.php:495
+#: inc/customizer/options/woocommerce.php:408
+msgid "Spacing"
+msgstr "Afstand"
+
+#: inc/customizer/options/blog-single.php:289
+#: inc/customizer/options/blog.php:463
+msgid "Post comments"
+msgstr "Bericht reacties"
+
+#: inc/customizer/options/blog-single.php:288
+#: inc/customizer/options/blog.php:462
+msgid "Post categories"
+msgstr "Bericht categorieën"
+
+#: inc/customizer/options/blog-single.php:287
+#: inc/customizer/options/blog.php:461
+msgid "Post author"
+msgstr "Auteur van het bericht"
+
+#: inc/customizer/options/blog-single.php:286
+#: inc/customizer/options/blog.php:460
+msgid "Post date"
+msgstr "Berichtdatum"
+
+#: inc/customizer/options/blog-single.php:283
+#: inc/customizer/options/blog.php:457
+msgid "Meta elements"
+msgstr "Meta elementen"
+
+#: inc/customizer/options/blog-single.php:272
+msgid "Below title"
+msgstr "Onder titel"
+
+#: inc/customizer/options/blog-single.php:271
+#: inc/customizer/options/blog.php:445
+msgid "Above title"
+msgstr "Boven titel"
+
+#: inc/customizer/options/blog-single.php:217
+msgid "Image spacing"
+msgstr "Afstand tussen afbeeldingen"
+
+#: inc/customizer/options/blog-single.php:204
+msgid "Above"
+msgstr "Boven"
+
+#: inc/customizer/options/blog-single.php:203
+msgid "Below"
+msgstr "Onder"
+
+#: inc/customizer/options/blog-single.php:200
+#: inc/customizer/options/blog.php:203
+msgid "Image placement"
+msgstr "Plaatsing van afbeeldingen"
+
+#: inc/customizer/options/blog-single.php:186
+msgid "Show featured image"
+msgstr "Uitgelichte afbeelding weergeven"
+
+#: inc/customizer/options/blog-single.php:130
+msgid "Header spacing"
+msgstr "Header afstand"
+
+#: inc/customizer/options/blog-single.php:113
+msgid "Header alignment"
+msgstr "Uitlijning van header"
+
+#: inc/customizer/options/blog-single.php:66
+#: inc/customizer/options/blog.php:118
+msgid "Sidebar position"
+msgstr "Zijbalkpositie"
+
+#: inc/customizer/options/blog-single.php:52
+#: inc/customizer/options/blog.php:104
+msgid "Enable sidebar"
+msgstr "Zijbalk inschakelen"
+
+#: inc/customizer/options/blog-single.php:14
+msgid "Single posts"
+msgstr "Enkele berichten"
+
+#: widgets/fp-facts.php:33
+msgid "Usage example: <strong>fas fa-cloud</strong> (solid). <strong>far fa-building</strong> (regular), <strong>fab fa-android</strong> (brands)"
+msgstr "Gebruiksvoorbeeld: <strong>fas fa-cloud</strong> (solid). <strong>far fa-building</strong> (regulier), <strong>fab fa-android</strong> (merken)"
+
+#: inc/customizer/options/general.php:498 inc/customizer/options/header.php:854
+msgid "Padding"
+msgstr "Padding"
+
+#: inc/customizer/options/general.php:477
+msgid "Icon size"
+msgstr "Pictogram grootte"
+
+#: inc/customizer/options/general.php:450
+msgid "Background hover color"
+msgstr "Achtergrond hover kleur"
+
+#: inc/customizer/options/general.php:431
+msgid "Icon hover color"
+msgstr "Pictogram hover kleur"
+
+#: inc/customizer/options/general.php:380
+msgid "Icon color"
+msgstr "Pictogramkleur"
+
+#: inc/customizer/options/general.php:319
+msgid "Bottom offset"
+msgstr "Bodem offset"
+
+#: inc/customizer/options/general.php:297
+msgid "Side offset"
+msgstr "Zijwaartse offset"
+
+#: inc/customizer/options/blog-single.php:268
+#: inc/customizer/options/blog.php:442 inc/customizer/options/general.php:279
+msgid "Position"
+msgstr "Positie"
+
+#: inc/customizer/options/general.php:243
+#: inc/customizer/options/general.php:597
+msgid "Button radius"
+msgstr "Knopradius"
+
+#: inc/customizer/options/general.php:226
+msgid "Icon 4"
+msgstr "Pictogram 4"
+
+#: inc/customizer/options/general.php:222
+msgid "Icon 3"
+msgstr "Pictogram 3"
+
+#: inc/customizer/options/general.php:218
+msgid "Icon 2"
+msgstr "Pictogram 2"
+
+#: inc/customizer/options/general.php:214
+msgid "Icon 1"
+msgstr "Pictogram 1"
+
+#: inc/customizer/options/blog.php:280 inc/customizer/options/general.php:191
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/customizer/options/general.php:187 inc/extras.php:267
+msgid "Back to top"
+msgstr "Terug naar boven"
+
+#: inc/customizer/options/general.php:177
+msgid "Text + Icon"
+msgstr "Tekst + Pictogram"
+
+#: inc/customizer/options/general.php:176
+#: inc/customizer/options/general.php:209
+msgid "Icon"
+msgstr "Pictogram"
+
+#: inc/customizer/options/general.php:159
+msgid "Enable scroll to top"
+msgstr "Scrollen naar boven inschakelen"
+
+#: inc/customizer/options/general.php:122
+msgid "Scroll to top"
+msgstr "Scroll naar boven"
+
+#: inc/customizer/options/general.php:29
+msgid "Misc"
+msgstr "Div"
+
+#: inc/customizer/options/footer.php:768
+msgid "Vertical Padding"
+msgstr "Verticale padding"
+
+#: inc/customizer/options/colors.php:314 inc/customizer/options/footer.php:659
+#: inc/customizer/options/header-mobile.php:270
+#: inc/customizer/options/header.php:730
+msgid "Text color"
+msgstr "Tekstkleur"
+
+#: inc/customizer/options/footer.php:621
+msgid "Add new"
+msgstr "Nieuw toevoegen"
+
+#: inc/customizer/options/footer.php:618
+msgid "Social profile"
+msgstr "Sociaal profiel"
+
+#: inc/customizer/options/footer.php:591
+msgid "You can use the following tags: {copyright}, {year}, {site_title}, {theme_author}"
+msgstr "Je kunt de volgende tags gebruiken: {copyright}, {year}, {site_title}, {theme_author}"
+
+#. translators: %1$1s, %2$2s theme copyright tags
+#: inc/customizer/options/footer.php:585 inc/extras.php:329
+msgid "%1$1s. Proudly powered by %2$2s"
+msgstr "%1$1s. Trots aangedreven door %2$2s"
+
+#: inc/customizer/options/footer.php:527
+msgid "Copyright area"
+msgstr "Copyright gebied"
+
+#: inc/customizer/options/footer.php:505
+msgid "Widget titles size"
+msgstr "Grootte widgettitels"
+
+#: inc/customizer/options/footer.php:458
+msgid "Column spacing"
+msgstr "Kolomafstand"
+
+#: inc/customizer/options/footer.php:435
+msgid "Vertical section padding"
+msgstr "Verticale sectie padding"
+
+#: inc/customizer/options/footer.php:391 inc/customizer/options/footer.php:737
+msgid "Divider width"
+msgstr "Breedte scheider"
+
+#: inc/customizer/options/footer.php:376 inc/customizer/options/footer.php:722
+msgid "Divider color"
+msgstr "Scheidingskleur"
+
+#: inc/customizer/options/footer.php:359 inc/customizer/options/footer.php:705
+msgid "Divider size"
+msgstr "Scheider grootte"
+
+#: inc/customizer/options/footer.php:344 inc/customizer/options/footer.php:690
+msgid "Enable top divider"
+msgstr "Bovenste scheidingslijn inschakelen"
+
+#: inc/customizer/options/footer.php:313
+msgid "Links color (hover)"
+msgstr "Links kleur (hoveren)"
+
+#: inc/customizer/options/footer.php:294
+msgid "Links color"
+msgstr "Links kleur"
+
+#: inc/customizer/options/footer.php:275
+msgid "Widget text color"
+msgstr "Widget tekstkleur"
+
+#: inc/customizer/options/footer.php:256
+msgid "Widget titles color"
+msgstr "Widgettitels kleur"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 4"
+msgstr "Widgetgebied 4"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 3"
+msgstr "Widgetgebied 3"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 2"
+msgstr "Widgetgebied 2"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 1"
+msgstr "Widgetgebied 1"
+
+#: inc/customizer/options/footer.php:191 inc/customizer/options/general.php:359
+msgid "Mobile/tablet only"
+msgstr "Alleen mobiel/tablet"
+
+#: inc/customizer/options/footer.php:190 inc/customizer/options/general.php:358
+msgid "Desktop only"
+msgstr "Alleen desktop"
+
+#: inc/customizer/options/footer.php:189 inc/customizer/options/general.php:357
+msgid "Show on all devices"
+msgstr "Weergeven op alle apparaten"
+
+#: inc/customizer/options/footer.php:187 inc/customizer/options/general.php:355
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: inc/customizer/options/blog.php:317 inc/customizer/options/footer.php:174
+#: inc/customizer/options/header.php:480
+msgid "Bottom"
+msgstr "Bodem"
+
+#: inc/customizer/options/blog-single.php:117
+#: inc/customizer/options/blog.php:316 inc/customizer/options/footer.php:173
+msgid "Middle"
+msgstr "Midden"
+
+#: inc/customizer/options/blog.php:315 inc/customizer/options/footer.php:172
+msgid "Top"
+msgstr "Boven"
+
+#: inc/customizer/options/blog.php:312 inc/customizer/options/footer.php:169
+msgid "Vertical alignment"
+msgstr "Verticale uitlijning"
+
+#: inc/customizer/options/footer.php:156 inc/customizer/options/footer.php:395
+#: inc/customizer/options/footer.php:563 inc/customizer/options/footer.php:741
+#: inc/customizer/options/header.php:314 inc/customizer/options/header.php:945
+msgid "Full-width"
+msgstr "Volledige breedte"
+
+#: inc/customizer/options/footer.php:152 inc/customizer/options/footer.php:559
+#: inc/customizer/options/header.php:310
+msgid "Container type"
+msgstr "Containertype"
+
+#: inc/customizer/options/footer.php:115 inc/customizer/options/footer.php:119
+#: inc/customizer/options/footer.php:123
+msgid "4 columns"
+msgstr "4 kolommen"
+
+#: inc/customizer/options/footer.php:103 inc/customizer/options/footer.php:107
+#: inc/customizer/options/footer.php:111
+msgid "3 columns"
+msgstr "3 kolommen"
+
+#: inc/customizer/options/footer.php:91 inc/customizer/options/footer.php:95
+#: inc/customizer/options/footer.php:99
+msgid "2 columns"
+msgstr "2 kolommen"
+
+#: inc/customizer/options/footer.php:87
+msgid "1 column"
+msgstr "1 kolom"
+
+#: inc/customizer/options/footer.php:83
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: inc/customizer/options/footer.php:78
+msgid "Footer widgets layout"
+msgstr "Footer widget lay-out"
+
+#: inc/customizer/options/footer.php:40
+msgid "Footer widgets"
+msgstr "Footer widgets"
+
+#: inc/customizer/controls/repeater/class_sydney_repeater.php:32
+msgid "Add"
+msgstr "Toevoegen"
+
+#: inc/customizer/controls/class_sydney_tab_control.php:41
+msgid "Style"
+msgstr "Stijl"
+
+#: functions.php:677
+msgid "<strong>Optional:</strong> Now <strong>Sydney</strong> is compatible with Font Awesome 5. For it is needed the latest version of <strong>Sydney Toolbox</strong> plugin. You can update the plugin <a href=\"%s\">here</a>."
+msgstr "<strong>Optional:</strong> Nu is <strong>Sydney</strong> compatibel met Font Awesome 5. Want het is nodig de nieuwste versie van <strong>Sydney Toolbox</strong> plugin. Je kunt de plugin updaten <a href=\"%s\">hier</a>."
+
+#: functions.php:667
+msgid "Update to v5"
+msgstr "Update naar v5"
+
+#: functions.php:665 functions.php:678
+msgid "This is a global change. That means this change will affect all website icons and you will need update the icons class names in all theme widgets and post types that use Font Awesome 4 icons. For example: \"fa-android\" to \"fab fa-android\"."
+msgstr "Dit is een globale verandering. Dat betekent dat deze wijziging van invloed is op alle sitepictogrammen en dat je de namen van de pictogrammen klasse moet updaten in alle thema widgets en berichttypen die Font Awesome 4 pictogrammen gebruiken. Bijvoorbeeld: \"fa-android\" naar \"fab fa-android\"."
+
+#: functions.php:665 functions.php:678
+msgid "Important: "
+msgstr "Belangrijk: "
+
+#: functions.php:663
+msgid "Your website is currently running the version 4. Click in the below button to update to version 5."
+msgstr "Je site draait momenteel versie 4. Klik in de onderstaande knop om te updaten naar versie 5."
+
+#: functions.php:663
+msgid "Sydney Font Awesome Update: "
+msgstr "Sydney Font Awesome update: "
+
+#: functions.php:180 functions.php:184 functions.php:188
+msgid "It was not possible complete the request, please reload the page and try again."
+msgstr "Het was niet mogelijk om de aanvraag te voltooien, laad de pagina opnieuw en probeer het opnieuw."
+
+#: functions.php:179
+msgid "Are you sure? Keep in mind this is a global change and you will need update your icons class names in all theme widgets and post types that use Font Awesome 4 icons."
+msgstr "Weet je het zeker? Houd er rekening mee dat dit een wereldwijde verandering is en dat je de klasse namen van je pictogrammen moet updaten in alle thema widgets en berichttypen die Font Awesome 4 pictogrammen gebruiken."
+
+#: inc/theme-dashboard-settings.php:110
+msgid "Full list of differences between Sydney and Sydney Pro"
+msgstr "Volledige lijst van verschillen tussen Sydney en Sydney Pro"
+
+#: inc/theme-dashboard-settings.php:99
+msgid "Custom Elementor widgets"
+msgstr "Aangepaste Elementor widgets"
+
+#: inc/theme-dashboard-settings.php:94
+msgid "Hooks system"
+msgstr "Hooks systeem"
+
+#: inc/theme-dashboard-settings.php:89
+msgid "Sidebar minicart"
+msgstr "Zijbalk mini winkelwagen"
+
+#: inc/theme-dashboard-settings.php:84
+msgid "Cart and account icons in the menu"
+msgstr "Winkelwagen en account pictogrammen in het menu"
+
+#: inc/theme-dashboard-settings.php:79
+msgid "WooCommerce support"
+msgstr "Ondersteuning voor WooCommerce"
+
+#: inc/customizer/options/footer.php:590 inc/theme-dashboard-settings.php:74
+msgid "Footer credits"
+msgstr "Footer credits"
+
+#: inc/classes/class-sydney-page-metabox.php:83
+#: inc/theme-dashboard-settings.php:69
+msgid "Transparent menu bar"
+msgstr "Transparante menubalk"
+
+#: inc/theme-dashboard-settings.php:59
+msgid "Starter sites"
+msgstr "Starterssites"
+
+#: inc/theme-dashboard-settings.php:54
+msgid "Type of starter sites"
+msgstr "Type starterssites"
+
+#: inc/theme-dashboard-settings.php:47
+msgid "Multiple blog layouts"
+msgstr "Meerdere bloglay-outs"
+
+#: inc/theme-dashboard-settings.php:37
+msgid "Native AMP support"
+msgstr "Native AMP ondersteuning"
+
+#: theme-dashboard/class-theme-dashboard.php:716
+msgid "Let us know. We'd love to hear from you."
+msgstr "Laat het ons weten. We horen graag van je."
+
+#: theme-dashboard/class-theme-dashboard.php:714
+msgid "Have an idea or feedback?"
+msgstr "Heb je een idee of feedback?"
+
+#: theme-dashboard/class-theme-dashboard.php:662
+msgid "Join our community"
+msgstr "Word lid van onze community"
+
+#: inc/customizer/options/general.php:92
+msgid "Enable Schema markup"
+msgstr "Schema markup inschakelen"
+
+#: theme-dashboard/class-theme-dashboard.php:736
+msgid "See the Changelog"
+msgstr "Bekijk de wijzigingslog"
+
+#: theme-dashboard/class-theme-dashboard.php:733
+msgid "Keep informed with the latest changes about each theme."
+msgstr "Blijf op de hoogte van de laatste wijzigingen over elk thema."
+
+#: theme-dashboard/class-theme-dashboard.php:726
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: theme-dashboard/class-theme-dashboard.php:719
+msgid "Suggest an idea"
+msgstr "Stel een idee voor"
+
+#: theme-dashboard/class-theme-dashboard.php:708
+msgid "Submit a Review"
+msgstr "Plaats een beoordeling"
+
+#: theme-dashboard/class-theme-dashboard.php:699
+msgid "Review"
+msgstr "Beoordeling"
+
+#: theme-dashboard/class-theme-dashboard.php:669
+msgid "Join Now"
+msgstr "Meld je nu aan"
+
+#: theme-dashboard/class-theme-dashboard.php:665
+msgid "Discuss products and ask for community support or help the community."
+msgstr "Bespreek producten en vraag om ondersteuning van de gemeenschap of help de gemeenschap."
+
+#: theme-dashboard/class-theme-dashboard.php:658
+msgid "Community"
+msgstr "Gemeenschap"
+
+#: theme-dashboard/class-theme-dashboard.php:648
+msgid "Go PRO"
+msgstr "Go PRO"
+
+#: theme-dashboard/class-theme-dashboard.php:644
+msgid "Want your questions answered faster? Go Pro to be first in the queue!"
+msgstr "Wil je dat je vragen sneller beantwoord worden? Ga Pro om als eerste in de rij te staan!"
+
+#: theme-dashboard/class-theme-dashboard.php:641
+msgid "pro"
+msgstr "pro"
+
+#: theme-dashboard/class-theme-dashboard.php:639
+msgid "Priority Support"
+msgstr "Prioritaire ondersteuning"
+
+#: theme-dashboard/class-theme-dashboard.php:631
+msgid "Get Support"
+msgstr "Krijg ondersteuning"
+
+#: theme-dashboard/class-theme-dashboard.php:627
+msgid "Have a question? Hit a bug? Get the help you need, when you need it from our friendly support staff."
+msgstr "Heb je een vraag? Bug gevonden? Vraag de hulp die je nodig hebt, wanneer je die nodig hebt, van onze vriendelijke ondersteuningsmedewerkers."
+
+#: theme-dashboard/class-theme-dashboard.php:624
+msgid "Need help? We're here for you!"
+msgstr "Hulp nodig? We zijn er voor je!"
+
+#: theme-dashboard/class-theme-dashboard.php:618
+msgid "Priority Status"
+msgstr "Prioriteitsstatus"
+
+#: theme-dashboard/class-theme-dashboard.php:514
+msgid "Clicking “Starter Sites” button will install and activate the demo importer plugin."
+msgstr "Door op de knop\" Starter sites \"te klikken, wordt de demo importeer plugin geïnstalleerd en geactiveerd."
+
+#: theme-dashboard/class-theme-dashboard.php:502
+msgid "Starter Sites"
+msgstr "Starter sites"
+
+#: theme-dashboard/class-theme-dashboard.php:465
+msgid "👋🏻"
+msgstr "👋🏻"
+
+#: theme-dashboard/class-theme-dashboard.php:457
+msgid "Hello, "
+msgstr "Hallo, "
+
+#: theme-dashboard/class-theme-dashboard.php:431
+msgid "A slow host can really put a drag on your site’s performance, even an optimized one. Make sure you get a host that won’t hold you back by reading our review, complete with real speed tests, of the fastest WordPress hosts. "
+msgstr "Een langzame host kan de prestaties van je site echt ondermijnen, zelfs een geoptimaliseerde host. Zorg ervoor dat je een host krijgt die je niet tegenhoudt door onze beoordeling te lezen, compleet met echte snelheidstests, van de snelste WordPress hosts."
+
+#: theme-dashboard/class-theme-dashboard.php:427
+msgid "Fastest WordPress Hosts"
+msgstr "Snelste WordPress hosts"
+
+#: theme-dashboard/class-theme-dashboard.php:411
+msgid "Every site that is serious about speed (and should be pretty much all sites these days) needs a caching plugin and WP Rocket is our pick of the bunch. Get the lowdown on why we recommend it n our data-backed review: "
+msgstr "Elke site die snelheid serieus neemt (en zou tegenwoordig praktisch wel alle sites moeten zijn) heeft een caching plugin nodig en WP Rocket is onze keuze. Lees meer over waarom we het aanbevelen in onze gegevensgestuurde beoordeling:"
+
+#: theme-dashboard/class-theme-dashboard.php:407
+msgid "WP Rocket Review"
+msgstr "WP Rocket Review"
+
+#: theme-dashboard/class-theme-dashboard.php:391
+msgid "We run through the top 10 WordPress performance plugins to keep your site running fast. Goes beyond just caching plugins (though those are on there too!). A must-read for all WordPress site owners."
+msgstr "We doorlopen de top 10 van WordPress prestatie plugins om je site snel te laten werken. Gaat verder dan alleen caching plugins (hoewel die daar ook staan!). Een must-read voor alle eigenaren van WordPress sites."
+
+#: theme-dashboard/class-theme-dashboard.php:387
+msgid "Best WordPress Speed Optimization Plugins"
+msgstr "Beste WordPress plugins voor snelheid optimalisatie"
+
+#: theme-dashboard/class-theme-dashboard.php:362
+msgid "Customize"
+msgstr "Aanpassen"
+
+#: theme-dashboard/class-theme-dashboard.php:299
+msgid "Failed to initialize or activate importer plugin."
+msgstr "Kan de importeer plugin niet initialiseren of activeren."
+
+#: theme-dashboard/class-theme-dashboard.php:280
+msgid "Insufficient permissions to install the plugin."
+msgstr "Onvoldoende rechten om de plugin te installeren."
+
+#: theme-dashboard/class-theme-dashboard.php:125
+msgid "Something went wrong, contact support."
+msgstr "Er is iets misgegaan, neem contact op met de ondersteuning."
+
+#: theme-dashboard/class-theme-dashboard.php:110
+#: theme-dashboard/class-theme-dashboard.php:507
+#: theme-dashboard/class-theme-dashboard.php:559
+msgid "Theme Dashboard"
+msgstr "Thema dashboard"
+
+#: inc/theme-dashboard-settings.php:237
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+#: inc/theme-dashboard-settings.php:227
+msgid "Performance"
+msgstr "Prestatie"
+
+#: inc/theme-dashboard-settings.php:221
+msgid "Free vs PRO"
+msgstr "Gratis versus Pro"
+
+#: inc/theme-dashboard-settings.php:214
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: inc/theme-dashboard-settings.php:209
+msgid "Extra Widget Area"
+msgstr "Extra widget gebied"
+
+#: inc/customizer/options/general.php:518
+#: inc/customizer/options/woocommerce.php:907
+#: inc/theme-dashboard-settings.php:179
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: inc/theme-dashboard-settings.php:199
+msgid "Single Projects"
+msgstr "Enkele projecten"
+
+#: inc/theme-dashboard-settings.php:194
+msgid "Single Employees"
+msgstr "Alleenstaande werknemers"
+
+#: inc/theme-dashboard-settings.php:189
+msgid "Front Page Section Titles"
+msgstr "Titels voor secties op startpagina"
+
+#: inc/theme-dashboard-settings.php:184
+msgid "Footer Contact"
+msgstr "Footer contact"
+
+#: inc/theme-dashboard-settings.php:174
+msgid "Footer Credits"
+msgstr "Footer credits"
+
+#: inc/theme-dashboard-settings.php:169
+msgid "Blog Options"
+msgstr "Blogopties"
+
+#: inc/theme-dashboard-settings.php:164
+msgid "Font Options"
+msgstr "Lettertype opties"
+
+#: inc/theme-dashboard-settings.php:159
+msgid "Color Options"
+msgstr "Kleuropties"
+
+#: inc/theme-dashboard-settings.php:154
+msgid "Header Options"
+msgstr "Header opties"
+
+#: inc/theme-dashboard-settings.php:149
+msgid "Change Site Title or Logo"
+msgstr "Wijzig sitetitel of logo"
+
+#: inc/theme-dashboard-settings.php:144
+msgid "Theme Features"
+msgstr "Thema functies"
+
+#: inc/theme-dashboard-settings.php:137
+msgid "Sydney is now installed and ready to use. Click on Starter Sites to get off to a flying start with one of our pre-made templates, or go to Theme Dashboard to get an overview of everything."
+msgstr "Sydney is nu geïnstalleerd en klaar voor gebruik. Klik op Starter sites om een vliegende start te maken met een van onze vooraf gemaakte templates, of ga naar Thema dashboard om een overzicht van alles te krijgen."
+
+#: inc/theme-dashboard-settings.php:118
+msgid "Get Sydney Pro Today"
+msgstr "Download Sydney Pro vandaag nog"
+
+#: inc/theme-dashboard-settings.php:15
+msgid "Here are some of the differences between Sydney and Sydney Pro:"
+msgstr "Hier zijn enkele van de verschillen tussen Sydney en Sydney Pro:"
+
+#: inc/theme-dashboard-settings.php:14
+msgid "Differences between Sydney and Sydney Pro"
+msgstr "Verschillen tussen Sydney en Sydney Pro"
+
+#: inc/notices/class-sydney-review.php:67
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: inc/notices/class-sydney-review.php:65
+msgid "Maybe later"
+msgstr "Misschien later"
+
+#: inc/notices/class-sydney-review.php:63
+msgid "Sure"
+msgstr "Zeker"
+
+#. Translators: %1$s current user display name.
+#: inc/notices/class-sydney-review.php:54
+msgid "Hey, %1$s! You've been using Sydney for more than two weeks now and we hope you're happy with it. If you have a few minutes, we would love to get a 5 star review from you."
+msgstr "Hallo, %1$s! Je gebruikt Sydney nu meer dan twee weken en we hopen dat je er blij mee bent. Als je een paar minuten de tijd hebt, zouden we graag een 5 sterren beoordeling van je ontvangen."
+
+#: inc/integrations/learnpress/customize.php:50
+msgid "Sidebar layout (single course)"
+msgstr "Zijbalk lay-out (enkele cursus)"
+
+#: inc/integrations/learnpress/customize.php:28
+msgid "Sidebar layout (course archive)"
+msgstr "Zijbalk lay-out (cursus archief)"
+
+#: inc/integrations/learnpress/customize.php:12
+msgid "Learnpress"
+msgstr "Learnpress"
+
+#: inc/integrations/learndash/customize.php:64
+msgid "Single lessons, topics, quizzes etc."
+msgstr "Enkele cursussen, onderwerpen, quizzen etc."
+
+#: inc/integrations/learndash/customize.php:31
+msgid "Single courses"
+msgstr "Enkele cursussen"
+
+#: inc/integrations/learndash/customize.php:12
+msgid "Learndash"
+msgstr "Learndash"
+
+#: inc/integrations/lifter/customize.php:325
+msgid "Lesson title font size"
+msgstr "Lettergrootte van de titel van de les"
+
+#: inc/integrations/lifter/customize.php:308
+msgid "Lesson title"
+msgstr "Les titel"
+
+#: inc/integrations/lifter/customize.php:290
+msgid "Single lesson"
+msgstr "Enkele les"
+
+#: inc/integrations/lifter/customize.php:280
+msgid "Course accent color"
+msgstr "Cursus accentkleur"
+
+#: inc/integrations/lifter/customize.php:260
+msgid "Course title font size"
+msgstr "Lettergrootte van cursustitel"
+
+#: inc/integrations/lifter/customize.php:243
+msgid "Course title"
+msgstr "Cursustitel"
+
+#: inc/integrations/lifter/customize.php:225
+msgid "Single course"
+msgstr "Enkele cursus"
+
+#: inc/integrations/lifter/customize.php:211
+msgid "Archives titles font size"
+msgstr "Lettergrootte van archieftitels"
+
+#: inc/integrations/lifter/customize.php:194
+msgid "Archives entry meta"
+msgstr "Archiefvermelding meta"
+
+#: inc/integrations/lifter/customize.php:175
+msgid "Archives titles color (hover)"
+msgstr "Kleur archieftitels (hover)"
+
+#: inc/integrations/lifter/customize.php:156
+msgid "Archives titles color"
+msgstr "Kleur archieftitels"
+
+#: inc/integrations/lifter/customize.php:138
+msgid "Styling"
+msgstr "Styling"
+
+#: inc/integrations/lifter/customize.php:100
+msgid "Memberships columns"
+msgstr "Lidmaatschappen kolommen"
+
+#: inc/integrations/lifter/customize.php:85
+msgid "Membership archives"
+msgstr "Lidmaatschap archieven"
+
+#: inc/integrations/learndash/customize.php:53
+#: inc/integrations/learndash/customize.php:86
+#: inc/integrations/learnpress/customize.php:33
+#: inc/integrations/learnpress/customize.php:55
+#: inc/integrations/lifter/customize.php:73
+#: inc/integrations/lifter/customize.php:127
+msgid "Sidebar right"
+msgstr "Zijbalk rechts"
+
+#: inc/integrations/learndash/customize.php:52
+#: inc/integrations/learndash/customize.php:85
+#: inc/integrations/learnpress/customize.php:32
+#: inc/integrations/learnpress/customize.php:54
+#: inc/integrations/lifter/customize.php:72
+#: inc/integrations/lifter/customize.php:126
+msgid "Sidebar left"
+msgstr "Zijbalk links"
+
+#: inc/integrations/learndash/customize.php:48
+#: inc/integrations/learndash/customize.php:81
+#: inc/integrations/lifter/customize.php:68
+#: inc/integrations/lifter/customize.php:122
+msgid "Sidebar layout"
+msgstr "Zijbalk lay-out"
+
+#: inc/integrations/lifter/customize.php:46
+msgid "Course catalog columns"
+msgstr "Kolommen van de cursuscatalogus"
+
+#: inc/integrations/lifter/customize.php:31
+msgid "Courses archives"
+msgstr "Cursussen archieven"
+
+#: inc/integrations/lifter/customize.php:12
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/customizer/options/woocommerce-single.php:52
+msgid "Remove sidebar from single products?"
+msgstr "Verwijder zijbalk van enkele producten?"
+
+#: inc/customizer/options/woocommerce-single.php:14
+msgid "Single products"
+msgstr "Enkel producten"
+
+#: inc/customizer/customizer.php:916
+msgid "Custom HTML"
+msgstr "Aangepaste HTML"
+
+#: inc/customizer/customizer.php:882
+msgid "Button border radius"
+msgstr "Radius knoprand"
+
+#: inc/customizer/customizer.php:861
+#: inc/customizer/options/woocommerce.php:1000
+msgid "Button font size"
+msgstr "Knop lettertype grootte"
+
+#: inc/customizer/customizer.php:840
+msgid "Left/right button padding"
+msgstr "Links/rechts knop padding"
+
+#: inc/customizer/customizer.php:820
+msgid "Top/bottom button padding"
+msgstr "Boven-/onderkant knop padding"
+
+#: inc/customizer/customizer.php:802
+msgid "Open link in a new tab?"
+msgstr "Open link in een nieuw tabblad?"
+
+#: inc/customizer/customizer.php:784 inc/customizer/options/header.php:597
+msgid "Button text"
+msgstr "Knop tekst"
+
+#: inc/customizer/customizer.php:777 inc/extras.php:177
+msgid "Get in touch"
+msgstr "Neem contact op"
+
+#: inc/customizer/customizer.php:767 inc/customizer/options/header.php:611
+msgid "Button link"
+msgstr "Button link"
+
+#: inc/customizer/customizer.php:738
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/customizer/customizer.php:737 inc/customizer/options/header.php:582
+#: inc/extras.php:570
+msgid "Button"
+msgstr "Knop"
+
+#: inc/customizer/customizer.php:736
+msgid "Nothing"
+msgstr "Niets"
+
+#: inc/customizer/customizer.php:733
+msgid "Header custom item"
+msgstr "Header aangepast item"
+
+#: inc/customizer/customizer.php:715 inc/customizer/options/footer.php:155
+#: inc/customizer/options/footer.php:394 inc/customizer/options/footer.php:562
+#: inc/customizer/options/footer.php:740 inc/customizer/options/header.php:313
+#: inc/customizer/options/header.php:944
+msgid "Contained"
+msgstr "Ingesloten"
+
+#: inc/customizer/customizer.php:712
+msgid "Menu container"
+msgstr "Menu container"
+
+#: inc/customizer/customizer.php:652
+msgid "Menu layout"
+msgstr "Menu lay-out"
+
+#: inc/integrations/wpml/class-sydney-wpml.php:38
+msgid "[aThemes Posts] See all button text"
+msgstr "[aThemes Posts] Zie alle knoptekst"
+
+#: inc/integrations/wpml/class-sydney-wpml-testimonials.php:37
+msgid "[aThemes Testimonials] Testimonial"
+msgstr "[aThemes Testimonials] Aanbeveling"
+
+#: inc/integrations/wpml/class-sydney-wpml-testimonials.php:34
+msgid "[aThemes Testimonials] Position"
+msgstr "[aThemes Testimonials] Positie"
+
+#: inc/integrations/wpml/class-sydney-wpml-testimonials.php:31
+msgid "[aThemes Testimonials] Name"
+msgstr "[aThemes Testimonials] Naam"
+
+#: inc/integrations/wpml/class-sydney-wpml-employee-carousel.php:37
+msgid "[aThemes Employees] Link"
+msgstr "[aThemes Medewerkers] Link"
+
+#: inc/integrations/wpml/class-sydney-wpml-employee-carousel.php:34
+msgid "[aThemes Employees] Position"
+msgstr "[aThemes Employees] Positie"
+
+#: inc/integrations/wpml/class-sydney-wpml-employee-carousel.php:31
+msgid "[aThemes Employees] Name"
+msgstr "[aThemes Employees] Naam"
+
+#: inc/integrations/wpml/class-sydney-wpml-portfolio.php:37
+msgid "[aThemes Portfolio] Link"
+msgstr "[aThemes Portfolio] Link"
+
+#: inc/integrations/wpml/class-sydney-wpml-portfolio.php:34
+msgid "[aThemes Portfolio] Term"
+msgstr "[aThemes Portfolio] Term"
+
+#: inc/integrations/wpml/class-sydney-wpml-portfolio.php:31
+msgid "[aThemes Portfolio] Title"
+msgstr "[aThemes Portfolio] Titel"
+
+#: inc/customizer/controls/typography/class_sydney_typography.php:106
+msgid "Font weight"
+msgstr "Lettertype gewicht"
+
+#: inc/onboarding/theme-info.php:269 inc/theme-dashboard-settings.php:239
+msgid "Discover Sydney Pro"
+msgstr "Ontdek Sydney Pro"
+
+#: inc/onboarding/theme-info.php:268 inc/theme-dashboard-settings.php:238
+msgid "Take Sydney to a whole other level by upgrading to the Pro version."
+msgstr "Breng Sydney naar een heel ander niveau door te upgraden naar de Pro-versie."
+
+#: inc/onboarding/theme-info.php:263
+msgid "See the changelog"
+msgstr "Zie de changelog"
+
+#: inc/onboarding/theme-info.php:262
+msgid "Keep informed about each theme update."
+msgstr "Blijf op de hoogte van elke thema-update."
+
+#: inc/onboarding/theme-info.php:257
+msgid "Submit a review here"
+msgstr "Plaats hier een beoordeling"
+
+#: inc/onboarding/theme-info.php:256
+#: theme-dashboard/class-theme-dashboard.php:704
+msgid "It makes us happy to hear from our users. We would appreciate a review."
+msgstr "We horen graag van onze gebruikers. We zouden een recensie op prijs stellen."
+
+#: inc/onboarding/theme-info.php:248
+msgid "View Sydney Pro"
+msgstr "Bekijk Sydney Pro"
+
+#: inc/onboarding/theme-info.php:108
+msgid "Font options"
+msgstr "Lettertype-opties"
+
+#: inc/onboarding/theme-info.php:106
+msgid "Header options"
+msgstr "Headeropties"
+
+#: inc/onboarding/theme-info.php:105
+msgid "Change your site title or add a logo"
+msgstr "Wijzig de titel van jouw site of voeg een logo toe"
+
+#: inc/onboarding/theme-info.php:104
+msgid "Theme elements can be styled from the Customizer. Use the links below to go straight to the section you want."
+msgstr "Thema-elementen kunnen worden gestileerd vanuit de customizer. Gebruik de onderstaande links om rechtstreeks naar de gewenste sectie te gaan."
+
+#: inc/onboarding/theme-info.php:103
+msgid "Styling with the Customizer"
+msgstr "Styling met de aangepasteizer"
+
+#: inc/onboarding/theme-info.php:97
+msgid "All recommended plugins need to be installed and activated for this step."
+msgstr "Alle aanbevolen plugins moeten voor deze stap worden geïnstalleerd en geactiveerd."
+
+#: inc/onboarding/theme-info.php:85
+msgid "Importing the demo will make your website look like our website."
+msgstr "Als je de demo importeert, ziet je site eruit zoals onze site."
+
+#: inc/onboarding/theme-info.php:84
+msgid "Import demo content (optional)"
+msgstr "Demo inhoud importeren (optioneel)"
+
+#: inc/onboarding/theme-info.php:76
+msgid "This plugin is useful for importing our demos. You can uninstall it after you're done with it."
+msgstr "Deze plugin is handig voor het importeren van onze demo's. Je kunt hem verwijderen nadat je klaar bent."
+
+#: inc/onboarding/theme-info.php:67
+msgid "First time Elementor user?"
+msgstr "Eerste keer Elementor-gebruiker?"
+
+#: inc/onboarding/theme-info.php:62
+msgid "Elementor will enable you to create pages by adding widgets to them using drag and drop."
+msgstr "Met Elementor kunt je pagina's maken door er widgets aan toe te voegen met slepen en neerzetten."
+
+#: inc/onboarding/theme-info.php:55
+msgid "Sydney Toolbox is a free addon for the Sydney WordPress theme. It helps with things like demo import and additional Elementor widgets."
+msgstr "Sydney Toolbox is een gratis add-on voor het Sydney WordPress-thema. Het helpt bij zaken als demo-import en extra Elementor-widgets."
+
+#: inc/onboarding/theme-info.php:49
+msgid "Install one plugin at a time. Wait for each plugin to activate."
+msgstr "Installeer één plugin tegelijk. Wacht tot elke plugin is geactiveerd."
+
+#: inc/onboarding/theme-info.php:48
+msgid "Install recommended plugins"
+msgstr "Aanbevolen plugins installeereren"
+
+#: inc/onboarding/theme-info.php:32
+msgid "Sydney is now installed and ready to go. To help you with the next step, we’ve gathered together on this page all the resources you might need. We hope you enjoy using Sydney. You can always come back to this page by going to <strong>Appearance > Sydney Info</strong>."
+msgstr "Sydney is nu geïnstalleerd en klaar voor gebruik. Om je te helpen met de volgende stap, hebben we op deze pagina alle bronnen verzameld die je nodig heeft. We hopen dat je veel plezier beleeft aan het gebruik van Sydney. Je kunt altijd teruggaan naar deze pagina door naar <strong> Uiterlijk> Sydney-info </strong>. "
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:155
+msgid "Activating "
+msgstr "Activeren"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+msgid "Jetpack Portfolio"
+msgstr "Jetpack portfolio"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:107
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: inc/customizer/customizer.php:1087
+msgid "Modern"
+msgstr "Modern"
+
+#: inc/classes/class-sydney-posts-archive.php:232
+#: theme-dashboard/class-theme-dashboard.php:395
+#: theme-dashboard/class-theme-dashboard.php:415
+#: theme-dashboard/class-theme-dashboard.php:435
+msgid "Read more"
+msgstr "Lees meer"
+
+#: inc/customizer/customizer.php:300 inc/customizer/customizer.php:1202
+msgid "or go to the Customizer"
+msgstr "of ga naar de Customizer"
+
+#: inc/customizer/customizer.php:282 inc/customizer/customizer.php:1186
+msgid "Click the pencil icon to change this text"
+msgstr "Klik op het potlood pictogram om deze tekst te wijzigen"
+
+#. Template Name of the theme
+#: inc/integrations/learndash/customize.php:51
+#: inc/integrations/learndash/customize.php:84
+#: inc/integrations/learnpress/customize.php:31
+#: inc/integrations/learnpress/customize.php:53
+#: inc/integrations/lifter/customize.php:71
+#: inc/integrations/lifter/customize.php:125
+msgid "No sidebar"
+msgstr "Geen zijbalk"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "Page builder ready"
+
+#: inc/customizer/customizer.php:1086
+msgid "Classic (alternative)"
+msgstr "Klassiek (alternatief)"
+
+#: inc/onboarding/theme-info.php:242
+msgid "Priority support"
+msgstr "Prioriteit support"
+
+#: inc/onboarding/theme-info.php:237
+msgid "5 Extra Page Templates (Contact, Featured Header - Default, Featured Header - Wide, No Header - Default, No Header - Wide)"
+msgstr "5 extra pagina templates (contact, uitgelichte header - standaard, uitgelichte header - breed, geen header - standaard, geen header - breed)"
+
+#: inc/onboarding/theme-info.php:232
+msgid "WooCommerce compatible"
+msgstr "WooCommerce compatibel"
+
+#: inc/onboarding/theme-info.php:227
+msgid "Single Post/Page Options"
+msgstr "Bericht/pagina opties"
+
+#: inc/onboarding/theme-info.php:222 inc/theme-dashboard-settings.php:64
+msgid "Header support for shortcodes"
+msgstr "Header ondersteuning voor shortcodes"
+
+#: inc/onboarding/theme-info.php:217
+msgid "Header support for Crelly Slider"
+msgstr "Header support voor de Crelly slider"
+
+#: inc/onboarding/theme-info.php:212
+msgid "Extra Customizer Options (Front Page Section Titles, Single Employees, Single Projects, Header Contact Info, Buttons)"
+msgstr "Extra customizer opties (Voorpagina sectie titels, medewerker pagina's, project pagina's, header contact, knoppen)"
+
+#: inc/onboarding/theme-info.php:207
+msgid "Extra widgets (timeline, latest news in carousel, pricing tables, a new employees widget and a new contact widget)"
+msgstr "Extra widgets (tijdlijn, recent nieuws in carousel, prijs tabellen, een nieuwe medewerkers widget en een nieuwe contact widget)"
+
+#: inc/onboarding/theme-info.php:202
+msgid "Footer Credits option"
+msgstr "Footer credits optie"
+
+#: inc/onboarding/theme-info.php:197
+msgid "Background image support"
+msgstr "Achtergrond afbeelding ondersteuning"
+
+#: inc/onboarding/theme-info.php:192
+msgid "Widgetized footer"
+msgstr "Footer met widgets"
+
+#: inc/onboarding/theme-info.php:107 inc/onboarding/theme-info.php:182
+msgid "Color options"
+msgstr "Kleur opties"
+
+#: inc/onboarding/theme-info.php:177
+msgid "Polylang integration"
+msgstr "Polylang integratie"
+
+#: inc/onboarding/theme-info.php:172
+msgid "Translation ready"
+msgstr "Voorbereid op vertaling"
+
+#: inc/onboarding/theme-info.php:167
+msgid "Front Page Blocks"
+msgstr "Voorpagina blokken"
+
+#: inc/onboarding/theme-info.php:162
+msgid "Slider, image or video header"
+msgstr "Slider, afbeelding of video header"
+
+#: inc/onboarding/theme-info.php:157
+msgid "Social Icons"
+msgstr "Social pictogrammen"
+
+#: inc/onboarding/theme-info.php:152
+msgid "Parallax backgrounds"
+msgstr "Parallax achtergronden"
+
+#: inc/onboarding/theme-info.php:142 inc/theme-dashboard-settings.php:27
+msgid "Access to all Google Fonts"
+msgstr "Toegang tot alle Google lettertypen"
+
+#: inc/onboarding/theme-info.php:137 inc/theme-dashboard-settings.php:22
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/onboarding/theme-info.php:135 inc/theme-dashboard-settings.php:20
+msgid "Feature"
+msgstr "Kenmerk"
+
+#: inc/onboarding/theme-info.php:127
+msgid "See the Documentation"
+msgstr "Zie de documentatie"
+
+#: inc/onboarding/theme-info.php:126
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "Onze documentatie helpt je bij het gebruik van het thema en voorziet je van kant en klare code snippets en antwoorden op veelgestelde vragen."
+
+#: inc/onboarding/theme-info.php:121
+msgid "Visit the forums"
+msgstr "Bezoek de forums"
+
+#: inc/onboarding/theme-info.php:120
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "Hulp nodig? Kom en bezoek ons support forum en we zullen je graag helpen bij alle vragen die je over het thema hebt"
+
+#: inc/onboarding/theme-info.php:119
+msgid "Visit our forums"
+msgstr "Bezoek onze forums"
+
+#: inc/onboarding/theme-info.php:95
+msgid "Go to the automatic importer"
+msgstr "Ga naar de automatische importeerfunctie"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:88
+msgid "Install and activate"
+msgstr "Installeer en activeer"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "Gratis versus Pro"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "Aan de slag"
+
+#: inc/theme-dashboard-settings.php:138
+msgid "Sydney is now installed and ready to go. To help you with the next step, we've gathered together on this page all the resources you might need. We hope you enjoy using Sydney."
+msgstr "Sydney is nu geïnstalleerd en klaar voor gebruik. Om je verder op weg te helpen hebben we op deze pagina alle bronnen verzameld die je misschien nodig hebt. We wensen je veel plezier met Sydney."
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "Hallo, %s,"
+
+#: inc/customizer/customizer.php:206 inc/customizer/customizer.php:1102
+#: inc/onboarding/theme-info.php:147 inc/theme-dashboard-settings.php:32
+msgid "Responsive"
+msgstr "Responsive"
+
+#: inc/customizer/customizer.php:205 inc/customizer/customizer.php:1101
+msgid "Full screen"
+msgstr "Volledig scherm"
+
+#: inc/customizer/customizer.php:201
+msgid "Slider mobile behavior"
+msgstr "Slider instelling voor smartphones"
+
+#: widgets/video-widget.php:32
+msgid "Text before the play button (only for lightbox mode):"
+msgstr "Tekst voorafgaand aan de play knop (alleen in lightbox modus):"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: inc/customizer/options/typography.php:60
+#: inc/customizer/options/typography.php:512 widgets/video-widget.php:28
+msgid "Normal"
+msgstr "Normaal"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "Video modus:"
+
+#: inc/customizer/options/colors.php:554
+msgid "Mobile menu button"
+msgstr "Smartphone menu knop"
+
+#: inc/customizer/options/colors.php:499 inc/customizer/options/header.php:827
+msgid "Menu items hover"
+msgstr "Menu items hover effect"
+
+#: inc/customizer/customizer.php:151 inc/customizer/customizer.php:174
+#: inc/customizer/customizer.php:1033
+msgid "Video"
+msgstr "Video"
+
+#: inc/page-builder.php:65 inc/so-page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "Vul een getal in om de witruimte aan de boven- en onderkant aan te passen. Standaard wordt 100px toegepast."
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "volledige inhoud"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "weer te geven inhoud"
+
+#: inc/customizer/upsell/class-customize.php:77
+#: inc/theme-dashboard-settings.php:281
+msgid "Get Sydney Pro"
+msgstr "Krijg Sydney Pro"
+
+#: inc/customizer/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "klaar voor meer?"
+
+#: inc/page-builder.php:198 inc/so-page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "Dit is van toepassing op alle koppen in de widget, behalve de widget titel"
+
+#: inc/page-builder.php:194 inc/so-page-builder.php:194
+msgid "Headings color"
+msgstr "Koppen kleur"
+
+#: inc/page-builder.php:187 inc/so-page-builder.php:187
+msgid "Widget title color"
+msgstr "Widget titel kleur"
+
+#: inc/page-builder.php:183 inc/so-page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "Deze instelling hangt af van de inhoud, het kan zijn dat het niet werkt"
+
+#: inc/customizer/options/blog-single.php:70
+#: inc/customizer/options/blog.php:122 inc/customizer/options/blog.php:207
+#: inc/customizer/options/general.php:283 inc/customizer/options/header.php:296
+#: inc/customizer/options/header.php:418
+#: inc/customizer/options/woocommerce.php:109 inc/page-builder.php:180
+#: inc/so-page-builder.php:180
+msgid "Right"
+msgstr "rechts"
+
+#: inc/customizer/options/header.php:295 inc/page-builder.php:179
+#: inc/so-page-builder.php:179
+msgid "Center"
+msgstr "midden"
+
+#: inc/customizer/options/blog-single.php:69
+#: inc/customizer/options/blog-single.php:116
+#: inc/customizer/options/blog.php:121 inc/customizer/options/blog.php:206
+#: inc/customizer/options/general.php:282 inc/customizer/options/header.php:294
+#: inc/customizer/options/header.php:406
+#: inc/customizer/options/woocommerce.php:105 inc/page-builder.php:178
+#: inc/so-page-builder.php:178
+msgid "Left"
+msgstr "links"
+
+#: inc/page-builder.php:174 inc/so-page-builder.php:174
+msgid "Content alignment"
+msgstr "uitgelijnde inhoud"
+
+#: inc/page-builder.php:113 inc/so-page-builder.php:113
+msgid "Overlay color"
+msgstr "Overlay kleur"
+
+#: inc/page-builder.php:107 inc/so-page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "De rij overlay uitschakelen?"
+
+#: inc/customizer/options/blog-single.php:99
+#: inc/customizer/options/colors.php:402 inc/customizer/options/header.php:14
+msgid "Header"
+msgstr "Header"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "Toon projecttitel?"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "\"Toon alle\" tekst:"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "Toon navigatie filter? (Categorie slugs moeten zijn gespecificeerd)."
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "Voeg de slugs toe (met komma gescheiden) voor je categorieën or laat leeg om al je projecten te tonen."
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Aantal projecten die worden getoond (-1 toont ze allemaal):"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "Toon alle"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: Portfolio"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "Toon je projecten in een rooster."
+
+#: inc/customizer/options/general.php:67
+msgid "Page wrapper - bottom padding"
+msgstr "Pagina wrapper - witruimte aan de onderkant"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "Open klanten links in een nieuwe tab?"
+
+#: inc/customizer/options/general.php:70
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "Witruimte aan de onderkant van de pagina wrapper (dat is de ruimte tussen de pagina inhoud en de footer) "
+
+#: inc/customizer/options/general.php:60
+msgid "100"
+msgstr "100"
+
+#: inc/customizer/options/general.php:47
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "Witruimte aan de bovenkant van de pagina wrapper (dat is de ruimte tussen de header en pagina titelinhoud)"
+
+#: inc/customizer/options/general.php:44
+msgid "Page wrapper - top padding"
+msgstr "Pagina wrapper - witruimte aan de bovenkant"
+
+#: inc/customizer/options/general.php:37
+msgid "83"
+msgstr "83"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "Autoplay tijd [ms]"
+
+#: inc/onboarding/theme-info.php:39
+#: theme-dashboard/class-theme-dashboard.php:615
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: inc/onboarding/theme-info.php:125
+#: theme-dashboard/class-theme-dashboard.php:550
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Sydney Info"
+msgstr "Sydney Info"
+
+#. Template Name of the theme
+#: inc/customizer/customizer.php:716
+msgid "Full width"
+msgstr "Volle breedte"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Voorpagina"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Plak de URL van de video (enkel van een platform dat Embed ondersteund zoals Youtube, Vimeo enz.:"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: Video"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Toon een video van Youtube, Vimeo enzovoort"
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "Bekijk al onze aanbevelingen"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Voer de slug in van je categorie of laat leeg om alle aanbevelingen te tonen."
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "De tekst voor de knop [Standaard is dit <em>Bekijk al onze aanbevelingen</em>]"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "De URL voor je knop [voor als je een knop onderaan je aanbevelingenblok wilt]"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Aantal aanbevelingen te tonen: (-1 toont ze allemaal):"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "Teneinde de widget te tonen, moet je eerste wat aanbevelingen toevoegen in je beheeromgeving."
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: Aanbevelingen"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "Toon je aanbevelingen in een slider."
+
+#: widgets/fp-social.php:65
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Selecteren &mdash;"
+
+#: widgets/fp-social.php:63
+msgid "Select your social menu:"
+msgstr "Selecteer je social media menu"
+
+#: widgets/fp-social.php:61
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Doe het volgende om je social media iconen in een widget te tonen. Ga naar <strong>Weergave > Menu's</strong> en maak een menu met links naar je sociale profielen. En selecteer dat menu hier. Ondersteunde netwerken: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:53
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Er zijn nog geen menu&#39;s aangemaakt. <a href=\"%s\">Maak er &#233;&#233;n aan</a>."
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: Social media profiel"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "Toon je social media profiel op je voorpagina."
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "Vierde vaardigheid waarde"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "Vierde vaardigheid naam"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "Derde vaardigheid waarde"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "Derde vaardigheid naam"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "Tweede vaardigheid waarde"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "Tweede vaardigheid naam"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "Eerste vaardigheid waarde"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "Eerste vaardigheid naam"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: vaardigheden"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "Toon je bezoekers enkele van je vaardigheden."
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "Aantal kolommen:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: Diensten type B"
+
+#: widgets/fp-services-type-a.php:147 widgets/fp-services-type-b.php:162
+msgid "See all our services"
+msgstr "Zie al onze diensten"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "Toon diensten in twee kolommen in plaats van drie?"
+
+#: widgets/fp-services-type-a.php:39 widgets/fp-services-type-b.php:38
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "Voer de slug van je categorie in of laat leeg om alle diensten te tonen."
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "De tekst voor de knop [Standaard is dit <em>Bekijk al onze diensten</em>]"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "De URL van je knop [voor als je een knop wilt onder je diensten blok]"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Aantal diensten te tonen (-1 toont ze allemaal):"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "Teneinde deze widget te tonen, moet je eerst enkele diensten toevoegen via uw beheeromgeving."
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: diensten type A"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "Toon wat voor diensten je kunt aanbieden."
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "Call to action knop tekst:"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "Call to action knop URL:"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "Voeg je lijst items hier toe. Eén item per rij. Begin elke rij met <strong>^</strong>. Bijvoorbeeld: <strong>^ lijst item</strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "Vul hier wat tekst in. Het zal getoond worden."
+
+#: widgets/fp-list.php:63 widgets/fp-portfolio.php:152 widgets/fp-social.php:58
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: Lijst"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "Een eenvoudige lijst widget"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "Zie al ons nieuws"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Voeg de tekst voor de knop hier toe als je de standaard tekst (<em>Bekijk al ons nieuws</em>) wilt veranderen"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Voer de slug van je categorie in of laat leeg om berichten uit alle categorieën te tonen."
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: Meest recente nieuws"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "Toon het meest recente nieuws van je blog."
+
+#: widgets/fp-facts.php:103
+msgid "Fourth fact icon"
+msgstr "Vierde feit icoon"
+
+#: widgets/fp-facts.php:98
+msgid "Fourth fact value"
+msgstr "Vierde feit waarde"
+
+#: widgets/fp-facts.php:93
+msgid "Fourth fact name"
+msgstr "Vierde feit naam"
+
+#: widgets/fp-facts.php:87
+msgid "Third fact icon"
+msgstr "Derde feit icoon"
+
+#: widgets/fp-facts.php:82
+msgid "Third fact value"
+msgstr "Derde feit waarde"
+
+#: widgets/fp-facts.php:77
+msgid "Third fact name"
+msgstr "Derde feit naam"
+
+#: widgets/fp-facts.php:71
+msgid "Second fact icon"
+msgstr "Tweede feit icoon"
+
+#: widgets/fp-facts.php:66
+msgid "Second fact value"
+msgstr "Tweede feit waarde"
+
+#: widgets/fp-facts.php:61
+msgid "Second fact name"
+msgstr "Tweede feit naam"
+
+#: widgets/fp-facts.php:55
+msgid "First fact icon"
+msgstr "Eerste feit icoon"
+
+#: widgets/fp-facts.php:50
+msgid "First fact value"
+msgstr "Eerste feit waarde"
+
+#: widgets/fp-facts.php:45
+msgid "First fact name"
+msgstr "Eerste feit naam"
+
+#: widgets/fp-facts.php:35
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Voorbeeld van gebruik: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "hier."
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "Je kunt een lijst vinden van de beschikbare iconen"
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: Feiten"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Toon je bezoekers enkele feiten over je bedrijf."
+
+#: widgets/fp-employees.php:143
+msgid "See all our employees"
+msgstr "Zie al onze werknemers"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "Centreer de werknemers? (enkel indien je 1 of 2 werknemers hebt)"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Voer de slug in voor je categorie of laat leeg om alle medewerkers te tonen."
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "De tekst voor de knop [Standaard is dat <em>]Bekijk al onze medewerkers</em>]"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "Voer een URL in als je wilt dat de sectie ergens naar toe linkt."
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Aantal medewerkers om te tonen (-1 laat ze allemaal zien):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Om deze widget te kunnen gebruiken moet je eerst enkele medewerkers invoeren. Voeg er zoveel toe als je wilt en het thema zal ze automatisch allemaal tonen."
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: Medewerkers"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "Toon je team leden op een stijlvolle manier."
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "Toon al je klanten"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "Voer de slug in van je categorie of laat leeg om alle klanten te tonen."
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "De tekst voor de knop [Standaard is dat <em>Bekijk al onze klanten</em>]"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "De URL voor je knop [voor het geval dat je een knop wilt onder je blok met klanten]"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Aantal klanten om te tonen (-1 toont ze allemaal):"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "Om deze widget te kunnen gebruiken moet je eerst enkele klanten invoeren. Stel je klant logo's in als uitgelichte afbeeldingen."
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: Klanten"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Toon je klantenlijst."
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "De knop in lijn met de tekst tonen?"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "Titel voor de knop"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "Link voor de knop"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "Voer je call to action in."
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: Call to action"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Toon een call to action blok."
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "Voer je e-mailadres in"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "Voer je telefoonnummer in"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "Voer je adres in"
+
+#: inc/customizer/options/woocommerce.php:303 widgets/contact-info.php:20
+#: widgets/fp-call-to-action.php:18 widgets/fp-clients.php:23
+#: widgets/fp-employees.php:23 widgets/fp-facts.php:39
+#: widgets/fp-latest-news.php:19 widgets/fp-services-type-a.php:30
+#: widgets/fp-services-type-b.php:29 widgets/fp-skills.php:24
+#: widgets/fp-testimonials.php:22 widgets/video-widget.php:20
+msgid "Title"
+msgstr "Titel"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: Contact informatie"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "Toon je contact informatie"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/customizer/options/general.php:173
+msgid "Type"
+msgstr "Type"
+
+#: inc/template-tags.php:241
+msgid "Archives"
+msgstr "Archieven"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:239
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:235
+msgid "Archives: %s"
+msgstr "Archieven: %s"
+
+#: inc/template-tags.php:232
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Gesprekken"
+
+#: inc/template-tags.php:230
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statussen"
+
+#: inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citaten"
+
+#: inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video's"
+
+#: inc/template-tags.php:220
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Zijdelings"
+
+#: inc/template-tags.php:213
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:213
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:211
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:211
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: inc/template-tags.php:209
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:209
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: inc/template-tags.php:207
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: inc/template-tags.php:205
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:203
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/template-tags.php:160
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:171
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:184
+msgid "% comments"
+msgstr "% reacties"
+
+#: inc/template-tags.php:184
+msgid "1 comment"
+msgstr "1 reactie"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:345
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#: inc/customizer/options/blog-single.php:389 inc/template-tags.php:61
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Oudere berichten"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Berichtennavigatie"
+
+#: inc/page-builder.php:101 inc/so-page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100 inc/so-page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99 inc/so-page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98 inc/so-page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97 inc/so-page-builder.php:97
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/page-builder.php:95 inc/so-page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "Hier kun je een witruimte voor de boven- en onderkant van rijen selecteren voor schermbreedtes kleiner dan 1024px"
+
+#: inc/page-builder.php:93 inc/so-page-builder.php:93
+msgid "Mobile padding"
+msgstr "Smartphone witruimte"
+
+#: inc/page-builder.php:87 inc/so-page-builder.php:87
+msgid "Background image of the row."
+msgstr "Achtergrond afbeelding van de rij."
+
+#: inc/page-builder.php:85 inc/so-page-builder.php:85
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: inc/page-builder.php:80 inc/so-page-builder.php:80
+msgid "Color of the row."
+msgstr "Kleur van de rij"
+
+#: inc/customizer/options/header-mobile.php:359
+#: inc/customizer/options/woocommerce.php:888 inc/page-builder.php:78
+#: inc/so-page-builder.php:78
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/customizer/options/colors.php:333 inc/customizer/options/footer.php:237
+#: inc/customizer/options/footer.php:640 inc/customizer/options/general.php:399
+#: inc/customizer/options/general.php:715
+#: inc/customizer/options/general.php:797
+#: inc/customizer/options/header-mobile.php:251
+#: inc/customizer/options/header-mobile.php:340
+#: inc/customizer/options/header.php:711
+#: inc/customizer/options/woocommerce.php:868
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: inc/page-builder.php:72 inc/so-page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "De kan al of niet werken. Dat hangt af van de widget stijlen."
+
+#: inc/page-builder.php:70 inc/so-page-builder.php:70
+msgid "Center align the content?"
+msgstr "De inhoud centreren?"
+
+#: inc/page-builder.php:63 inc/so-page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "Witruimte boven/onder"
+
+#: inc/page-builder.php:57 inc/so-page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "Onderkant randkleur"
+
+#: inc/page-builder.php:44 inc/so-page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Sydney thema widgets"
+
+#: inc/customizer/customizer.php:1034
+msgid "Nothing (only menu)"
+msgstr "Niets (alleen menu)"
+
+#: inc/customizer/customizer.php:1006
+msgid "2. A full theme demo can be found "
+msgstr "Een complete thema demo kan worden gevonden"
+
+#: inc/customizer/customizer.php:1006
+msgid "1. Documentation for Sydney can be found "
+msgstr "Documentatie voor Sydney kan worden gevonden"
+
+#: inc/customizer/customizer.php:1004
+msgid "Theme info"
+msgstr "Thema info"
+
+#: inc/customizer/options/colors.php:629
+msgid "Sidebar color"
+msgstr "Zijbalk kleur"
+
+#: inc/customizer/options/colors.php:609
+msgid "Sidebar background"
+msgstr "Zijbalk achtergrond"
+
+#: inc/customizer/options/colors.php:61
+msgid "Body text"
+msgstr "Body-tekst"
+
+#: inc/customizer/options/colors.php:536
+msgid "Sub-menu background"
+msgstr "Submenu achtergrond"
+
+#: inc/customizer/options/colors.php:518
+msgid "Sub-menu items"
+msgstr "Submenu items"
+
+#: inc/customizer/options/colors.php:481
+msgid "Top level menu items"
+msgstr "Topniveau menu items"
+
+#: inc/customizer/options/colors.php:421
+msgid "Menu background"
+msgstr "menu-achtergrond"
+
+#: inc/customizer/options/colors.php:41
+msgid "Primary color"
+msgstr "Primaire Kleur"
+
+#: inc/customizer/options/colors.php:461
+msgid "Site description"
+msgstr "Site beschrijving"
+
+#: inc/customizer/options/colors.php:441
+msgid "Site title"
+msgstr "Sitetitel"
+
+#: inc/customizer/controls/typography/class_sydney_typography.php:81
+msgid "Font family"
+msgstr "Tekensetfamilie"
+
+#: inc/customizer/customizer.php:1062
+msgid "Four"
+msgstr "Vier"
+
+#: inc/customizer/customizer.php:1061
+msgid "Three"
+msgstr "Drie"
+
+#: inc/customizer/customizer.php:1060
+msgid "Two"
+msgstr "Twee"
+
+#: inc/customizer/customizer.php:1059
+msgid "One"
+msgstr "Eén"
+
+#: inc/customizer/options/footer.php:217
+msgid "Footer widget areas"
+msgstr "Footer widget gebieden"
+
+#: inc/customizer/options/footer.php:29
+msgid "Footer"
+msgstr "Voettekst"
+
+#: inc/customizer/options/blog.php:171
+msgid "Featured image"
+msgstr "Uitgelichte afbeelding"
+
+#: inc/customizer/options/blog-single.php:254
+#: inc/customizer/options/blog.php:428
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/options/blog.php:371
+msgid "Excerpt length"
+msgstr "Samenvatting lengte"
+
+#: inc/customizer/customizer.php:1089
+msgid "Masonry (grid style)"
+msgstr "Masonry (grid stijl)"
+
+#: inc/customizer/customizer.php:1088
+msgid "Full width (no sidebar)"
+msgstr "Volledige breedte, (geen zijbalk)"
+
+#: inc/customizer/customizer.php:1085 inc/customizer/options/blog.php:64
+msgid "Classic"
+msgstr "Klassiek"
+
+#: inc/customizer/options/blog.php:59
+msgid "Blog layout"
+msgstr "Blog lay-out"
+
+#: inc/customizer/options/header-mobile.php:54
+#: inc/customizer/options/header.php:246
+#: inc/customizer/options/woocommerce.php:57
+#: inc/customizer/options/woocommerce.php:383
+#: inc/customizer/options/woocommerce.php:488
+#: inc/customizer/options/woocommerce.php:581
+#: inc/customizer/options/woocommerce.php:661
+#: inc/integrations/learndash/customize.php:18
+msgid "Layout"
+msgstr "Lay-out"
+
+#: inc/onboarding/theme-info.php:109 inc/onboarding/theme-info.php:187
+msgid "Blog options"
+msgstr "Blog opties"
+
+#: inc/customizer/customizer.php:992
+msgid "Upload your logo"
+msgstr "Upload je logo"
+
+#: inc/customizer/customizer.php:974
+msgid "Disable the overlay?"
+msgstr "De overlay uitzetten?"
+
+#: inc/customizer/customizer.php:956
+msgid "Header height [default: 300px]"
+msgstr "Header hoogte [standaard: 300px]"
+
+#: inc/customizer/customizer.php:940 inc/customizer/customizer.php:1048
+msgid "Contain"
+msgstr "Omvatten"
+
+#: inc/customizer/customizer.php:939 inc/customizer/customizer.php:1047
+msgid "Cover"
+msgstr "bedekken"
+
+#: inc/customizer/customizer.php:936
+msgid "Header background size"
+msgstr "Header achtergrond grootte"
+
+#: inc/customizer/customizer.php:695 inc/customizer/customizer.php:1114
+msgid "Centered (menu and site logo)"
+msgstr "Gecentreerd (menu en site logo)"
+
+#: inc/customizer/customizer.php:694 inc/customizer/customizer.php:1113
+msgid "Inline"
+msgstr "Inline"
+
+#: inc/customizer/customizer.php:674 inc/customizer/customizer.php:1074
+msgid "Static"
+msgstr "Statisch"
+
+#: inc/customizer/customizer.php:673 inc/customizer/customizer.php:1073
+msgid "Sticky"
+msgstr "Sticky"
+
+#: inc/customizer/customizer.php:670 inc/theme-dashboard-settings.php:42
+msgid "Sticky menu"
+msgstr "Sticky menu"
+
+#: inc/customizer/customizer.php:691
+msgid "Menu style"
+msgstr "Menustijl"
+
+#: inc/customizer/customizer.php:640
+msgid "Text for your call to action button"
+msgstr "Tekst van je call to action knop"
+
+#: inc/customizer/customizer.php:632
+msgid "Click to begin"
+msgstr "Klik om te beginnen"
+
+#: inc/customizer/customizer.php:623
+msgid "URL for your call to action button"
+msgstr "URL van je call to action knop"
+
+#: inc/customizer/customizer.php:606
+msgid "Call to action button"
+msgstr "Call to action knop"
+
+#: inc/customizer/customizer.php:592
+msgid "Subtitle for the fifth slide"
+msgstr "Subtitel voor de vijfde slide"
+
+#: inc/customizer/customizer.php:574
+msgid "Title for the fifth slide"
+msgstr "Titel voor de vijfde slide"
+
+#: inc/customizer/customizer.php:554
+msgid "Upload your fifth image for the slider"
+msgstr "Upload je vijfde afbeelding voor de slider"
+
+#: inc/customizer/customizer.php:535
+msgid "Fifth slide"
+msgstr "Vijfde slide"
+
+#: inc/customizer/customizer.php:521
+msgid "Subtitle for the fourth slide"
+msgstr "Subtitel voor de vierde slide"
+
+#: inc/customizer/customizer.php:503
+msgid "Title for the fourth slide"
+msgstr "Titel voor de vierde slide"
+
+#: inc/customizer/customizer.php:483
+msgid "Upload your fourth image for the slider"
+msgstr "Upload je vierde afbeelding voor de slider"
+
+#: inc/customizer/customizer.php:464
+msgid "Fourth slide"
+msgstr "Vierde slide"
+
+#: inc/customizer/customizer.php:450
+msgid "Subtitle for the third slide"
+msgstr "Subtitel voor de derde slide"
+
+#: inc/customizer/customizer.php:432
+msgid "Title for the third slide"
+msgstr "Titel voor de derde slide"
+
+#: inc/customizer/customizer.php:412
+msgid "Upload your third image for the slider"
+msgstr "Upload je derde afbeelding voor de slider"
+
+#: inc/customizer/customizer.php:393
+msgid "Third slide"
+msgstr "Derde slide"
+
+#: inc/customizer/customizer.php:379
+msgid "Subtitle for the second slide"
+msgstr "Subtitel voor de tweede slide"
+
+#: inc/customizer/customizer.php:361
+msgid "Title for the second slide"
+msgstr "Titel voor de tweede slide"
+
+#: inc/customizer/customizer.php:341
+msgid "Upload your second image for the slider"
+msgstr "Upload je tweee afbeelding voor de slider"
+
+#: inc/customizer/customizer.php:322
+msgid "Second slide"
+msgstr "Tweede slide"
+
+#: inc/customizer/customizer.php:308
+msgid "Subtitle for the first slide"
+msgstr "Subtitel voor de eerste slide"
+
+#: inc/customizer/customizer.php:290
+msgid "Title for the first slide"
+msgstr "Titel voor de eerste slide"
+
+#: inc/onboarding/theme-info.php:31 inc/theme-dashboard-settings.php:136
+msgid "Welcome to Sydney"
+msgstr "Welkom bij Sydney"
+
+#: inc/customizer/customizer.php:270
+msgid "Upload your first image for the slider"
+msgstr "Upload je eerste afbeelding voor de slider"
+
+#: inc/customizer/customizer.php:251
+msgid "First slide"
+msgstr "Eerste slide"
+
+#: inc/customizer/customizer.php:238
+msgid "Stop the text slider?"
+msgstr "De tekst slider stoppen?"
+
+#: inc/customizer/customizer.php:224
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "Slider snelheid in milliseconden. Vul 0 in om uit te schakelen [standaard: 4000]"
+
+#: inc/customizer/customizer.php:221
+msgid "Slider speed"
+msgstr "Slider snelheid"
+
+#: inc/customizer/customizer.php:214
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer/customizer.php:184
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Hero  Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "Je kunt maximaal 5 afbeeldingen aan de slider toevoegen. Zorg ervoor dat je uitkiest waar je slider moet worden getoond in de sectie header type hierboven. Je kunt ook een call to action knop toevoegen (scroll naar beneden om de optie te vinden)"
+
+#: inc/customizer/customizer.php:170
+msgid "Select the hero type for all pages except the front page"
+msgstr "Selecteer het type hero voor alle pagina's behalve de voorpagina"
+
+#: inc/customizer/customizer.php:168
+msgid "Site header type"
+msgstr "Site header type"
+
+#: inc/customizer/customizer.php:152 inc/customizer/customizer.php:175
+msgid "No header (only menu)"
+msgstr "Geen header (alleen menu)"
+
+#: inc/customizer/customizer.php:150 inc/customizer/customizer.php:173
+#: inc/customizer/customizer.php:1032
+#: inc/customizer/options/blog-single.php:168
+msgid "Image"
+msgstr "Afbeelding"
+
+#: inc/customizer/customizer.php:149 inc/customizer/customizer.php:172
+#: inc/customizer/customizer.php:1031
+msgid "Full screen slider"
+msgstr "Volle schermbreedte slider"
+
+#: inc/customizer/customizer.php:147
+msgid "Select the header type for your front page"
+msgstr "Selecteer het type header voor je voorpagina"
+
+#: inc/customizer/customizer.php:145
+msgid "Front page header type"
+msgstr "Voorpagina header type"
+
+#: inc/customizer/customizer.php:122
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Hero Slider and Header Image) and configure them."
+msgstr "Hier kun je het type header uitkiezen voor je site. Ga daarna eronder verder met de twee tabs (header slider en header afbeelding) om ze in te stellen."
+
+#: inc/customizer/controls/class_sydney_tab_control.php:40
+#: inc/customizer/options/colors.php:20 inc/customizer/options/general.php:14
+#: inc/customizer/options/woocommerce.php:12
+#: inc/integrations/lifter/customize.php:18
+msgid "General"
+msgstr "Algemeen"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: functions.php:312
+msgid "Create your menu here"
+msgstr "Maak je menu hier"
+
+#: functions.php:116
+msgid "Footer "
+msgstr "Voettekst"
+
+#: functions.php:104 inc/customizer/options/colors.php:590
+#: inc/customizer/options/woocommerce.php:96
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: content-page.php:31 inc/template-tags.php:163
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content-page.php:24 content-search.php:32 content-single.php:45
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met jouw zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:38 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:37 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:36 comments.php:54
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat niets gevonden is op deze locatie. Wellicht kan je één van de volgende links gebruiken of je kan zoeken?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Deze pagina kon niet worden gevonden."
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+#: theme-dashboard/class-theme-dashboard.php:542
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"

@@ -1,0 +1,1040 @@
+# Translation of Plugins - Sydney Toolbox - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Sydney Toolbox - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-27 17:30:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Sydney Toolbox - Development (trunk)\n"
+
+#: inc/elementor/block-slider.php:107
+msgid "Slide Heading"
+msgstr "Encabezado de la diapositiva"
+
+#: demo-content/setup.php:27
+msgid "Shop"
+msgstr "Tienda"
+
+#: demo-content/setup.php:18
+msgid "Original"
+msgstr "Original"
+
+#: inc/elementor/block-portfolio.php:272
+msgid "Show all"
+msgstr "Mostrar todo"
+
+#: inc/elementor/block-timeline.php:194
+msgid "Event title"
+msgstr "Título del evento"
+
+#: inc/elementor/block-slider.php:115 inc/elementor/block-timeline.php:171
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/elementor/block-timeline.php:168 inc/elementor/block-timeline.php:257
+msgid "Event description"
+msgstr "Descripción del evento"
+
+#: inc/elementor/block-timeline.php:163 inc/elementor/block-timeline.php:225
+#: inc/metaboxes/timeline-metabox.php:86
+msgid "Event date"
+msgstr "Fecha del evento"
+
+#: inc/elementor/block-timeline.php:160
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/elementor/block-timeline.php:152
+msgid "Icon color"
+msgstr "Color de icono"
+
+#: inc/elementor/block-timeline.php:142 inc/elementor/block-timeline.php:154
+msgid "Available for Style 1"
+msgstr "Disponible para el estilo 1"
+
+#: inc/elementor/block-timeline.php:140
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/elementor/block-timeline.php:132 inc/elementor/block-timeline.php:135
+msgid "Item name"
+msgstr "Nombre del elemento"
+
+#: inc/elementor/block-timeline.php:120
+msgid "First contract"
+msgstr "Primer contrato"
+
+#: inc/elementor/block-timeline.php:111 inc/elementor/block-timeline.php:136
+msgid "Our company was founded"
+msgstr "Nuestra empresa fue fundada"
+
+#: inc/elementor/block-timeline.php:87
+msgid "Timeline"
+msgstr "Cronología"
+
+#: inc/elementor/block-timeline.php:42
+msgid "aThemes: Timeline"
+msgstr "aThemes: Cronología"
+
+#: inc/elementor/block-testimonials.php:126
+#: inc/elementor/block-testimonials.php:129
+msgid "Client position"
+msgstr "Posición del cliente"
+
+#: inc/elementor/block-testimonials.php:114
+#: inc/elementor/block-testimonials.php:118
+#: inc/elementor/block-testimonials.php:121
+msgid "Client name"
+msgstr "Nombre del cliente"
+
+#: inc/elementor/block-testimonials.php:111
+msgid "Client photo"
+msgstr "Foto del cliente"
+
+#: inc/elementor/block-testimonials.php:42
+msgid "aThemes: Testimonials"
+msgstr "aThemes: Testimonios"
+
+#: inc/elementor/block-pricing.php:325
+msgid "Padding top/bottom"
+msgstr "Relleno superior/inferior"
+
+#: inc/elementor/block-pricing.php:307
+msgid "Table header"
+msgstr "Cabecera de tabla"
+
+#: inc/elementor/block-pricing.php:216 inc/elementor/block-pricing.php:252
+#: inc/elementor/block-pricing.php:288
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/elementor/block-pricing.php:178 inc/elementor/block-slider.php:127
+msgid "Click me"
+msgstr "Haz click aquí"
+
+#: inc/elementor/block-pricing.php:176 inc/elementor/block-pricing.php:179
+#: inc/elementor/block-slider.php:125 inc/elementor/block-slider.php:135
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: inc/elementor/block-pricing.php:169
+msgid "http://example.org"
+msgstr "http://example.org"
+
+#: inc/elementor/block-pricing.php:164
+msgid "Button URL"
+msgstr "URL del botón"
+
+#: inc/elementor/block-pricing.php:151
+msgid "Feature name"
+msgstr "Nombre de la característica"
+
+#: inc/elementor/block-pricing.php:139 inc/elementor/block-pricing.php:142
+#: inc/elementor/block-pricing.php:145 inc/elementor/block-pricing.php:154
+#: inc/elementor/block-pricing.php:155
+msgid "Just a feature"
+msgstr "Una característica"
+
+#: inc/elementor/block-pricing.php:135 inc/elementor/block-testimonials.php:94
+#: inc/elementor/block-timeline.php:107
+msgid "Features list"
+msgstr "Lista de características"
+
+#: inc/elementor/block-pricing.php:128
+msgid "Plan name"
+msgstr "Nombre del plan"
+
+#: inc/elementor/block-pricing.php:127
+msgid "Agency"
+msgstr "Agencia"
+
+#: inc/elementor/block-pricing.php:125 inc/elementor/block-testimonials.php:186
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/elementor/block-pricing.php:117
+msgid "month"
+msgstr "mes"
+
+#: inc/elementor/block-pricing.php:115 inc/elementor/block-pricing.php:118
+#: inc/elementor/block-pricing.php:271
+msgid "Period"
+msgstr "Punto"
+
+#: inc/elementor/block-pricing.php:104 inc/elementor/block-pricing.php:107
+#: inc/elementor/block-pricing.php:235
+msgid "Price"
+msgstr "Precio"
+
+#: inc/elementor/block-pricing.php:94 inc/elementor/block-pricing.php:199
+msgid "Currency"
+msgstr "Divisa"
+
+#: inc/elementor/block-pricing.php:87
+msgid "Icon List"
+msgstr "Lista de iconos"
+
+#: inc/elementor/block-pricing.php:42
+msgid "aThemes: Pricing table"
+msgstr "aThemes: Tabla de precios"
+
+#: inc/elementor/block-posts.php:431 inc/elementor/block-pricing.php:501
+#: inc/elementor/block-slider.php:629
+msgid "Padding"
+msgstr "Relleno"
+
+#: inc/elementor/block-posts.php:404 inc/elementor/block-pricing.php:474
+#: inc/elementor/block-slider.php:609
+msgid "Border Radius"
+msgstr "Radio de borde"
+
+#: inc/elementor/block-posts.php:381 inc/elementor/block-pricing.php:451
+#: inc/elementor/block-slider.php:586
+msgid "Hover Animation"
+msgstr "Animación al pasar ratón"
+
+#: inc/elementor/block-posts.php:367 inc/elementor/block-pricing.php:437
+#: inc/elementor/block-slider.php:572
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: inc/elementor/block-posts.php:336 inc/elementor/block-pricing.php:406
+#: inc/elementor/block-slider.php:543
+msgid "Hover"
+msgstr "Al pasar"
+
+#: inc/elementor/block-posts.php:322 inc/elementor/block-posts.php:355
+#: inc/elementor/block-pricing.php:314 inc/elementor/block-pricing.php:392
+#: inc/elementor/block-pricing.php:425 inc/elementor/block-slider.php:526
+#: inc/elementor/block-slider.php:561
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: inc/elementor/block-posts.php:310 inc/elementor/block-posts.php:343
+#: inc/elementor/block-pricing.php:380 inc/elementor/block-pricing.php:413
+#: inc/elementor/block-slider.php:426 inc/elementor/block-slider.php:461
+#: inc/elementor/block-slider.php:514 inc/elementor/block-slider.php:550
+msgid "Text Color"
+msgstr "Color del Texto"
+
+#: inc/elementor/block-posts.php:303 inc/elementor/block-pricing.php:373
+#: inc/elementor/block-slider.php:507
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/elementor/block-posts.php:284 inc/elementor/block-pricing.php:354
+#: inc/elementor/block-slider.php:488
+msgid "Button"
+msgstr "Botón"
+
+#: inc/elementor/block-posts.php:261
+msgid "Carousel dots"
+msgstr "Puntos de carrusel"
+
+#: inc/elementor/block-posts.php:229
+msgid "Post content"
+msgstr "Contenido de la entrada"
+
+#: inc/elementor/block-posts.php:203
+msgid "Meta links"
+msgstr "Meta enlaces"
+
+#: inc/elementor/block-posts.php:191
+msgid "Meta text"
+msgstr "Meta texto"
+
+#: inc/elementor/block-posts.php:184
+msgid "Post meta"
+msgstr "Meta de la entrada"
+
+#: inc/elementor/block-posts.php:152
+msgid "Post title"
+msgstr "Título del anuncio"
+
+#: inc/elementor/block-posts.php:131
+msgid "See all our news"
+msgstr "Ver todas nuestras noticias"
+
+#: inc/elementor/block-posts.php:129
+msgid "See all button text"
+msgstr "Texto de botón «ver todo»"
+
+#: inc/elementor/block-posts.php:118
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/elementor/block-posts.php:109
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: inc/elementor/block-posts.php:87
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/elementor/block-posts.php:42
+msgid "aThemes: Posts"
+msgstr "aThemes: Entradas"
+
+#: inc/elementor/block-portfolio.php:231
+msgid "Filter"
+msgstr "Filtrar"
+
+#: inc/elementor/block-portfolio.php:182
+msgid "Main color"
+msgstr "Color principal"
+
+#: inc/elementor/block-portfolio.php:151
+msgid "Link for this project"
+msgstr "Enlace para este proyecto"
+
+#: inc/elementor/block-portfolio.php:148
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/elementor/block-portfolio.php:144
+msgid "Art"
+msgstr "Arte"
+
+#: inc/elementor/block-portfolio.php:143
+msgid "Term for the filter"
+msgstr "Término para el filtro"
+
+#: inc/elementor/block-portfolio.php:140
+msgid "Filter term"
+msgstr "Filtrar término"
+
+#: inc/elementor/block-portfolio.php:136 inc/elementor/block-portfolio.php:199
+msgid "Project title"
+msgstr "Título del poyecto"
+
+#: inc/elementor/block-portfolio.php:132 inc/elementor/block-portfolio.php:135
+#: inc/elementor/block-slider.php:418
+msgid "Title"
+msgstr "Título"
+
+#: inc/elementor/block-portfolio.php:126
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/elementor/block-portfolio.php:118
+#: inc/elementor/block-testimonials.php:103
+msgid "James Stevens"
+msgstr "James Stevens"
+
+#: inc/elementor/block-portfolio.php:115 inc/elementor/block-portfolio.php:120
+#: inc/elementor/block-testimonials.php:100
+#: inc/elementor/block-testimonials.php:105
+#: inc/elementor/block-testimonials.php:138
+#: inc/elementor/block-timeline.php:117 inc/elementor/block-timeline.php:126
+#: inc/elementor/block-timeline.php:172
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id purus neque. Curabitur pulvinar elementum neque in dictum. Sed non lectus nec tortor iaculis tincidunt."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id purus neque. Curabitur pulvinar elementum neque in dictum. Sed non lectus nec tortor iaculis tincidunt."
+
+#: inc/elementor/block-portfolio.php:114 inc/elementor/block-portfolio.php:119
+#: inc/elementor/block-testimonials.php:99
+#: inc/elementor/block-testimonials.php:104
+#: inc/elementor/block-testimonials.php:130
+msgid "Manager"
+msgstr "Gerente"
+
+#: inc/elementor/block-portfolio.php:109
+msgid "Projects list"
+msgstr "Listado de proyectos"
+
+#: inc/elementor/block-portfolio.php:87
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: inc/elementor/block-portfolio.php:42
+msgid "aThemes: Portfolio"
+msgstr "aThemes: Portfolio"
+
+#: inc/elementor/block-employee.php:122
+msgid "Enter the name"
+msgstr "Introduce el nombre"
+
+#: inc/elementor/block-employee.php:98 inc/elementor/block-portfolio.php:99
+#: inc/elementor/block-posts.php:99 inc/elementor/block-timeline.php:98
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: inc/elementor/block-employee.php:97 inc/elementor/block-portfolio.php:98
+#: inc/elementor/block-posts.php:98 inc/elementor/block-timeline.php:97
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: inc/elementor/block-employee.php:94 inc/elementor/block-portfolio.php:95
+#: inc/elementor/block-posts.php:95 inc/elementor/block-slider.php:197
+#: inc/elementor/block-timeline.php:94
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/elementor/block-employee.php:42
+msgid "aThemes: Employee"
+msgstr "aThemes: Empleado"
+
+#: inc/elementor/block-employee-carousel.php:171
+#: inc/elementor/block-employee-carousel.php:195
+#: inc/elementor/block-employee-carousel.php:227
+#: inc/elementor/block-employee.php:202 inc/elementor/block-employee.php:228
+#: inc/elementor/block-employee.php:260 inc/elementor/block-portfolio.php:206
+#: inc/elementor/block-posts.php:159 inc/elementor/block-posts.php:236
+#: inc/elementor/block-posts.php:268 inc/elementor/block-pricing.php:206
+#: inc/elementor/block-pricing.php:242 inc/elementor/block-pricing.php:278
+#: inc/elementor/block-testimonials.php:168
+#: inc/elementor/block-testimonials.php:193
+#: inc/elementor/block-testimonials.php:224
+#: inc/elementor/block-testimonials.php:255
+#: inc/elementor/block-timeline.php:201 inc/elementor/block-timeline.php:232
+#: inc/elementor/block-timeline.php:264
+msgid "Color"
+msgstr "Color"
+
+#: inc/elementor/block-employee-carousel.php:164
+#: inc/elementor/block-employee.php:195 inc/elementor/block-portfolio.php:175
+#: inc/elementor/block-testimonials.php:161
+msgid "General"
+msgstr "General"
+
+#: inc/elementor/block-employee-carousel.php:152
+#: inc/elementor/block-employee.php:183 inc/elementor/block-portfolio.php:163
+#: inc/elementor/block-posts.php:139 inc/elementor/block-pricing.php:186
+#: inc/elementor/block-slider.php:345 inc/elementor/block-testimonials.php:149
+#: inc/elementor/block-timeline.php:182
+msgid "View"
+msgstr "Ver"
+
+#: inc/elementor/block-employee-carousel.php:140
+#: inc/elementor/block-employee.php:170
+msgid "Link (for person's name)"
+msgstr "Enlace (para el nombre de la persona)"
+
+#: inc/elementor/block-employee-carousel.php:134
+#: inc/elementor/block-employee.php:159
+msgid "Linkedin link"
+msgstr "Enlace de Linkedin"
+
+#: inc/elementor/block-employee-carousel.php:128
+#: inc/elementor/block-employee.php:150
+msgid "Twitter link"
+msgstr "Enlace de Twitter"
+
+#: inc/elementor/block-employee-carousel.php:124
+#: inc/elementor/block-employee-carousel.php:130
+#: inc/elementor/block-employee-carousel.php:136
+#: inc/elementor/block-employee-carousel.php:142
+#: inc/elementor/block-employee.php:143 inc/elementor/block-employee.php:152
+#: inc/elementor/block-employee.php:161 inc/elementor/block-employee.php:172
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: inc/elementor/block-employee-carousel.php:122
+#: inc/elementor/block-employee.php:141
+msgid "Facebook link"
+msgstr "Enlace de Facebook"
+
+#: inc/elementor/block-employee-carousel.php:117
+#: inc/elementor/block-employee.php:133
+msgid "Enter the position"
+msgstr "Introduce la posición"
+
+#: inc/elementor/block-employee-carousel.php:116
+#: inc/elementor/block-employee.php:132
+msgid "General Manager"
+msgstr "Director general"
+
+#: inc/elementor/block-employee-carousel.php:114
+#: inc/elementor/block-employee.php:130
+#: inc/elementor/block-testimonials.php:217
+msgid "Position"
+msgstr "Posición"
+
+#: inc/elementor/block-employee-carousel.php:110
+#: inc/elementor/block-employee.php:121 inc/elementor/block-portfolio.php:113
+#: inc/elementor/block-testimonials.php:98
+#: inc/elementor/block-testimonials.php:122
+msgid "John Doe"
+msgstr "John Doe"
+
+#: inc/elementor/block-employee-carousel.php:106
+#: inc/elementor/block-employee-carousel.php:109
+#: inc/elementor/block-employee-carousel.php:188
+#: inc/elementor/block-employee.php:119 inc/elementor/block-employee.php:221
+msgid "Employee name"
+msgstr "Nombre del empleado"
+
+#: inc/elementor/block-employee-carousel.php:101
+#: inc/elementor/block-employee.php:107
+msgid "Choose Image"
+msgstr "Elegir Imagen"
+
+#: inc/elementor/block-employee-carousel.php:94
+msgid "Employee list"
+msgstr "Lista de empleados"
+
+#: inc/elementor/block-employee-carousel.php:87
+msgid "Employee Carousel"
+msgstr "Carrusel de empleados"
+
+#: inc/elementor/block-employee-carousel.php:42
+msgid "aThemes: Employee carousel"
+msgstr "aThemes: Carrusel de empleados"
+
+#: sydney-toolbox.php:127
+msgid "Sydney Toolbox requires PHP 5.4. Please contact your host to upgrade your PHP. The plugin was <strong>not</strong> activated."
+msgstr "Sydney Toolbox necesita  PHP 5.4. Por favor, ponte en contacto con tu hospedaje para actualizar PHP. El plugin <strong>no</strong> se ha activado."
+
+#: sydney-toolbox.php:117
+msgid "Sydney Elements"
+msgstr "Sydney Elements"
+
+#. Author URI of the plugin
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Author of the plugin
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Description of the plugin
+msgid "Registers custom post types and custom fields for the Sydney theme"
+msgstr "Registra tipos de contenido personalizados y campos personalizados para el tema Sydney"
+
+#. Plugin URI of the plugin
+msgid "http://athemes.com/plugins/sydney-toolbox"
+msgstr "http://athemes.com/plugins/sydney-toolbox"
+
+#. Plugin Name of the plugin
+msgid "Sydney Toolbox"
+msgstr "Sydney Toolbox"
+
+#: sydney-toolbox.php:146
+msgid "Please note that the <strong>Sydney Toolbox</strong> plugin is meant to be used only with the <a href=\"http://wordpress.org/themes/sydney/\" target=\"_blank\">Sydney theme</a></p>"
+msgstr "Ten en cuenta que el plugin <strong>Sydney Toolbox</strong> está destinado a ser utilizado sólo con el <a href=\"http://wordpress.org/themes/sydney/\" target=\"_blank\">tema Sydney</a></p>"
+
+#: inc/post-type-timeline.php:52
+msgid "A post type for your timeline events"
+msgstr "Un tipo de contenido para los eventos del cronograma"
+
+#: inc/post-type-timeline.php:34
+msgid "Edit Event"
+msgstr "Modificar Evento"
+
+#: inc/post-type-timeline.php:37
+msgid "Search Event"
+msgstr "Buscar Evento"
+
+#: inc/post-type-timeline.php:51
+msgid "Event"
+msgstr "Evento"
+
+#: inc/post-type-timeline.php:35
+msgid "Update Event"
+msgstr "Actualizar evento"
+
+#: inc/post-type-timeline.php:36
+msgid "View Event"
+msgstr "Ver evento"
+
+#: inc/elementor/block-testimonials.php:134
+#: inc/elementor/block-testimonials.php:137
+#: inc/elementor/block-testimonials.php:248 inc/post-type-testimonials.php:46
+msgid "Testimonial"
+msgstr "Grupo de Testimonios"
+
+#: inc/post-type-timeline.php:31 inc/post-type-timeline.php:32
+msgid "Add New Event"
+msgstr "Agregar Nuevo Evento"
+
+#: inc/post-type-timeline.php:33
+msgid "New Event"
+msgstr "Nuevo Evento"
+
+#: inc/post-type-timeline.php:30
+msgid "All Timeline Events"
+msgstr "Eventos de todos los tiempos"
+
+#: inc/post-type-timeline.php:25
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr "Evento"
+
+#: inc/post-type-testimonials.php:32
+msgid "Search Testimonial"
+msgstr "Buscar testimonio"
+
+#: inc/post-type-testimonials.php:30
+msgid "Update Testimonial"
+msgstr "Actualizar testimonio"
+
+#: inc/post-type-testimonials.php:31
+msgid "View Testimonial"
+msgstr "Ver testimonio"
+
+#: inc/post-type-timeline.php:26 inc/post-type-timeline.php:27
+msgid "Timeline Events"
+msgstr "Eventos del cronograma"
+
+#: inc/post-type-timeline.php:24
+msgctxt "Post Type General Name"
+msgid "Timeline Events"
+msgstr "Eventos del cronograma"
+
+#: inc/post-type-testimonials.php:47
+msgid "A post type for your testimonials"
+msgstr "Un tipo de contenido para sus testimonios"
+
+#: inc/post-type-testimonials.php:25
+msgid "All Testimonials"
+msgstr "Todos testimonios"
+
+#: inc/post-type-testimonials.php:26 inc/post-type-testimonials.php:27
+msgid "Add New Testimonial"
+msgstr "Añadir nuevo testimonio"
+
+#: inc/post-type-testimonials.php:28
+msgid "New Testimonial"
+msgstr "Nuevo testimonio"
+
+#: inc/post-type-testimonials.php:29
+msgid "Edit Testimonial"
+msgstr "Editar Testimonial"
+
+#: inc/post-type-projects.php:31
+msgid "View Project"
+msgstr "Ver proyecto"
+
+#: inc/post-type-projects.php:46
+msgid "Project"
+msgstr "Proyecto"
+
+#: inc/post-type-services.php:21 inc/post-type-services.php:22
+msgid "Services"
+msgstr "Servicios"
+
+#: inc/post-type-services.php:46
+msgid "Service"
+msgstr "Servicio"
+
+#: inc/elementor/block-testimonials.php:87 inc/post-type-testimonials.php:21
+#: inc/post-type-testimonials.php:22
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: inc/post-type-services.php:20
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr "Servicio"
+
+#: inc/post-type-services.php:19
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr "Servicios"
+
+#: inc/post-type-services.php:32
+msgid "Search Service"
+msgstr "Buscar servicio"
+
+#: inc/post-type-services.php:29
+msgid "Edit Service"
+msgstr "Editar servicio"
+
+#: inc/post-type-services.php:31
+msgid "View Service"
+msgstr "Ver servicio"
+
+#: inc/post-type-services.php:28
+msgid "New Service"
+msgstr "Nuevo servicio"
+
+#: inc/post-type-services.php:25
+msgid "All Services"
+msgstr "Todos los servicios"
+
+#: inc/post-type-services.php:30
+msgid "Update Service"
+msgstr "Actualizar servicio"
+
+#: inc/post-type-projects.php:32
+msgid "Search Project"
+msgstr "Buscar proyecto"
+
+#: inc/post-type-projects.php:30
+msgid "Update Project"
+msgstr "Actualizar proyecto"
+
+#: inc/post-type-services.php:26 inc/post-type-services.php:27
+msgid "Add New Service"
+msgstr "Añadir un servicio"
+
+#: inc/post-type-services.php:47
+msgid "A post type for your services"
+msgstr "Un tipo de contenido para tus servicios"
+
+#: inc/post-type-projects.php:47
+msgid "A post type for your projects"
+msgstr "Un tipo de contenido para tus proyectos"
+
+#: inc/post-type-testimonials.php:20
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: inc/post-type-testimonials.php:19
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: inc/post-type-projects.php:25
+msgid "All Projects"
+msgstr "Todos los proyectos"
+
+#: inc/post-type-projects.php:26 inc/post-type-projects.php:27
+msgid "Add New Project"
+msgstr "Añadir nuevo proyecto"
+
+#: inc/post-type-projects.php:28
+msgid "New Project"
+msgstr "Nuevo proyecto"
+
+#: inc/post-type-projects.php:29
+msgid "Edit Project"
+msgstr "Editar Proyecto"
+
+#: inc/post-type-clients.php:43 inc/post-type-employees.php:43
+#: inc/post-type-projects.php:43 inc/post-type-services.php:43
+#: inc/post-type-testimonials.php:43 inc/post-type-timeline.php:48
+msgid "Filter items list"
+msgstr "Filtrar la lista de elementos"
+
+#: inc/post-type-clients.php:46
+msgid "Client"
+msgstr "Cliente"
+
+#: inc/post-type-projects.php:21 inc/post-type-projects.php:22
+msgid "Projects"
+msgstr "Proyectos"
+
+#: inc/post-type-projects.php:20
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Proyecto"
+
+#: inc/post-type-projects.php:19
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr "Proyectos"
+
+#: inc/elementor/block-employee.php:87 inc/post-type-employees.php:46
+msgid "Employee"
+msgstr "Empleado"
+
+#: inc/post-type-employees.php:30
+msgid "Update Employee"
+msgstr "Actualizar empleado"
+
+#: inc/post-type-employees.php:25
+msgid "All Employees"
+msgstr "Todos los empleados"
+
+#: inc/post-type-employees.php:21 inc/post-type-employees.php:22
+msgid "Employees"
+msgstr "Empleados"
+
+#: inc/post-type-employees.php:20
+msgctxt "Post Type Singular Name"
+msgid "Employee"
+msgstr "Empleado"
+
+#: inc/post-type-employees.php:19
+msgctxt "Post Type General Name"
+msgid "Employees"
+msgstr "Empleados"
+
+#: inc/post-type-employees.php:28
+msgid "New Employee"
+msgstr "Nuevo empleado"
+
+#: inc/post-type-employees.php:31
+msgid "View Employee"
+msgstr "Ver empleado"
+
+#: inc/post-type-employees.php:29
+msgid "Edit Employee"
+msgstr "Editar empleado"
+
+#: inc/post-type-employees.php:32
+msgid "Search Employee"
+msgstr "Buscar empleado"
+
+#: inc/post-type-employees.php:47
+msgid "A post type for your employees"
+msgstr "Un tipo de contenido para tus empleados"
+
+#: inc/post-type-employees.php:26 inc/post-type-employees.php:27
+msgid "Add New Employee"
+msgstr "Añadir un empleado"
+
+#: inc/post-type-clients.php:47
+msgid "A post type for your clients"
+msgstr "Un tipo de contenido para tus clientes"
+
+#: inc/post-type-clients.php:41 inc/post-type-employees.php:41
+#: inc/post-type-projects.php:41 inc/post-type-services.php:41
+#: inc/post-type-testimonials.php:41 inc/post-type-timeline.php:46
+msgid "Items list"
+msgstr "Lista de elementos"
+
+#: inc/post-type-clients.php:42 inc/post-type-employees.php:42
+#: inc/post-type-projects.php:42 inc/post-type-services.php:42
+#: inc/post-type-testimonials.php:42 inc/post-type-timeline.php:47
+msgid "Items list navigation"
+msgstr "Navegación por la lista de elementos"
+
+#: inc/post-type-clients.php:40 inc/post-type-employees.php:40
+#: inc/post-type-projects.php:40 inc/post-type-services.php:40
+#: inc/post-type-testimonials.php:40 inc/post-type-timeline.php:45
+msgid "Uploaded to this item"
+msgstr "Subido a este elemento"
+
+#: inc/post-type-clients.php:39 inc/post-type-employees.php:39
+#: inc/post-type-projects.php:39 inc/post-type-services.php:39
+#: inc/post-type-testimonials.php:39 inc/post-type-timeline.php:44
+msgid "Insert into item"
+msgstr "Insertar en este elemento"
+
+#: inc/post-type-clients.php:38 inc/post-type-employees.php:38
+#: inc/post-type-projects.php:38 inc/post-type-services.php:38
+#: inc/post-type-testimonials.php:38 inc/post-type-timeline.php:43
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: inc/post-type-clients.php:36 inc/post-type-employees.php:36
+#: inc/post-type-projects.php:36 inc/post-type-services.php:36
+#: inc/post-type-testimonials.php:36 inc/post-type-timeline.php:41
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: inc/post-type-clients.php:37 inc/post-type-employees.php:37
+#: inc/post-type-projects.php:37 inc/post-type-services.php:37
+#: inc/post-type-testimonials.php:37 inc/post-type-timeline.php:42
+msgid "Remove featured image"
+msgstr "Eliminar imagen destacada"
+
+#: inc/post-type-clients.php:34 inc/post-type-employees.php:34
+#: inc/post-type-projects.php:34 inc/post-type-services.php:34
+#: inc/post-type-testimonials.php:34 inc/post-type-timeline.php:39
+msgid "Not found in Trash"
+msgstr "No es troba a la paperera"
+
+#: inc/post-type-clients.php:35 inc/post-type-employees.php:35
+#: inc/post-type-projects.php:35 inc/post-type-services.php:35
+#: inc/post-type-testimonials.php:35 inc/post-type-timeline.php:40
+msgid "Featured Image"
+msgstr "Foto principal"
+
+#: inc/post-type-clients.php:33 inc/post-type-employees.php:33
+#: inc/post-type-projects.php:33 inc/post-type-services.php:33
+#: inc/post-type-testimonials.php:33 inc/post-type-timeline.php:38
+msgid "Not found"
+msgstr "No se ha encontrado"
+
+#: inc/post-type-clients.php:32
+msgid "Search Client"
+msgstr "Buscar cliente"
+
+#: inc/post-type-clients.php:29
+msgid "Edit Client"
+msgstr "Editar cliente"
+
+#: inc/post-type-clients.php:31
+msgid "View Client"
+msgstr "Ver cliente"
+
+#: inc/post-type-clients.php:30
+msgid "Update Client"
+msgstr "Actualizar cliente"
+
+#: inc/post-type-clients.php:28
+msgid "New Client"
+msgstr "Nuevo cliente"
+
+#: inc/post-type-clients.php:26 inc/post-type-clients.php:27
+msgid "Add New Client"
+msgstr "Añadir un cliente"
+
+#: inc/post-type-clients.php:25
+msgid "All Clients"
+msgstr "Todos los clientes"
+
+#: inc/post-type-clients.php:21 inc/post-type-clients.php:22
+msgid "Clients"
+msgstr "Clientes"
+
+#: inc/post-type-clients.php:24 inc/post-type-employees.php:24
+#: inc/post-type-projects.php:24 inc/post-type-services.php:24
+#: inc/post-type-testimonials.php:24 inc/post-type-timeline.php:29
+msgid "Parent Item:"
+msgstr "Elemento Padre:"
+
+#: inc/post-type-clients.php:19
+msgctxt "Post Type General Name"
+msgid "Clients"
+msgstr "Clientes"
+
+#: inc/metaboxes/timeline-metabox.php:101
+msgid "Event link"
+msgstr "Enlace del evento"
+
+#: inc/metaboxes/timeline-metabox.php:90
+msgid "Event icon"
+msgstr "Icono del evento"
+
+#: inc/metaboxes/timeline-metabox.php:98
+msgid "Event color"
+msgstr "Color del evento"
+
+#: inc/post-type-clients.php:20
+msgctxt "Post Type Singular Name"
+msgid "Client"
+msgstr "Cliente"
+
+#: inc/metaboxes/timeline-metabox.php:99
+msgid "Select a color for the event icon."
+msgstr "Seleccionar un color para el icono del evento"
+
+#: inc/metaboxes/testimonials-metabox.php:79
+msgid "Enter your client's function/company name"
+msgstr "Escribe el cargo/nombre de la empresa del cliente"
+
+#: inc/metaboxes/testimonials-metabox.php:78
+msgid "Client function/Company name"
+msgstr "Cargo/nombre de empresa del cliente"
+
+#: inc/post-type-clients.php:23 inc/post-type-employees.php:23
+#: inc/post-type-projects.php:23 inc/post-type-services.php:23
+#: inc/post-type-testimonials.php:23 inc/post-type-timeline.php:28
+msgid "Item Archives"
+msgstr "Archivos de elementos"
+
+#: inc/metaboxes/timeline-metabox.php:102
+msgid "You can link your event to a page of your choice by entering the URL in this field"
+msgstr "Puedes vincular tu evento a una página de tu elección introduciendo la dirección URL en este campo."
+
+#: inc/metaboxes/timeline-metabox.php:87
+msgid "Add the date when this timeline event happened."
+msgstr "Añadir la fecha en que este evento ocurrió en línea de tiempo."
+
+#: inc/metaboxes/timeline-metabox.php:34
+msgid "Timeline info"
+msgstr "Información de la cronología"
+
+#: inc/metaboxes/singles-metabox.php:104
+msgid "Enter a value for the opacity of the white content background. Values from 0 to 1 (example 0.4)"
+msgstr "Introduce un valor para la opacidad del fondo blanco del contenido. Los valores van de 0 a 1 (por ejemplo, 0.4)"
+
+#: inc/metaboxes/singles-metabox.php:103
+msgid "Content wrapper opacity"
+msgstr "Opacidad del envoltorio del contenido"
+
+#: inc/metaboxes/singles-metabox.php:102
+msgid "Check this box to hide the title"
+msgstr "Marca esta casilla para ocultar el título"
+
+#: inc/elementor/block-slider.php:203 inc/metaboxes/singles-metabox.php:99
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: inc/metaboxes/employees-metabox.php:33
+msgid "Employee info"
+msgstr "Información del empleado"
+
+#: inc/metaboxes/clients-metabox.php:33
+#: inc/metaboxes/testimonials-metabox.php:33
+msgid "Client info"
+msgstr "Información del Cliente"
+
+#: inc/metaboxes/employees-metabox.php:95
+msgid "Employee Google"
+msgstr "Cuenta Google del Empleado"
+
+#: inc/metaboxes/employees-metabox.php:97
+msgid "Employee Link"
+msgstr "Enlace del empleado"
+
+#: inc/metaboxes/services-metabox.php:33
+msgid "Service info"
+msgstr "Información del servicio"
+
+#: inc/metaboxes/services-metabox.php:78
+msgid "Service icon"
+msgstr "Icono del servicio"
+
+#: inc/metaboxes/services-metabox.php:86
+msgid "Service link"
+msgstr "Enlace del servicio"
+
+#: inc/metaboxes/employees-metabox.php:91
+msgid "Employee Facebook"
+msgstr "Facebook del empleado"
+
+#: inc/metaboxes/clients-metabox.php:76
+msgid "Client link"
+msgstr "Enlace del cliente"
+
+#: inc/elementor/block-employee-carousel.php:220
+#: inc/elementor/block-employee.php:253 inc/metaboxes/employees-metabox.php:89
+msgid "Employee position"
+msgstr "Cargo del empleado"
+
+#: inc/metaboxes/employees-metabox.php:93
+msgid "Employee Twitter"
+msgstr "Twitter del Empleado"
+
+#: inc/metaboxes/projects-metabox.php:33
+msgid "Project info"
+msgstr "Información del proyecto"
+
+#: inc/metaboxes/clients-metabox.php:77
+msgid "Add a link for the client's website here [optional]"
+msgstr "Enlace a la web del cliente (opcional)"
+
+#: inc/metaboxes/employees-metabox.php:98
+msgid "Add a link here if you want the employee name to link somewhere."
+msgstr "Escribe aquí un enlace si quieres que el nombre del empleado apunte a algún sitio."
+
+#: inc/metaboxes/projects-metabox.php:76
+msgid "Project link"
+msgstr "Enlace del proyecto"
+
+#: inc/metaboxes/singles-metabox.php:97
+msgid "If you want to use this option, make sure you leave the next background color option empty."
+msgstr "Si quieres usar esta opción, asegúrate de dejar vacía la siguiente opción de color de fondo."
+
+#: inc/metaboxes/singles-metabox.php:96
+msgid "Background image URL"
+msgstr "URL de la imagen de fondo"
+
+#: inc/metaboxes/singles-metabox.php:94
+msgid "Here you can control the options just for this page/post."
+msgstr "Aquí puede controlar las opciones para esta página/entrada."
+
+#: inc/metaboxes/singles-metabox.php:41
+msgid "Post/page options"
+msgstr "Opciones de entrada/página"
+
+#: inc/metaboxes/services-metabox.php:87
+msgid "You can link your service to a page of your choice by entering the URL in this field"
+msgstr "Puedes vincular tu servicio a una página de tu elección introduciendo la dirección URL en este campo"
+
+#: inc/metaboxes/projects-metabox.php:77
+msgid "Add an URL here to make this project link to another page (internal or external). Leave it empty and it will default to its own page."
+msgstr "Añade una URL aquí para hacer que el proyecto enlace a otra página (interna o externa). Déjalo en blanco y por defecto apuntará a su propia página."
+
+#: inc/metaboxes/timeline-metabox.php:94
+msgid "Example: <strong>fa-android</strong>. Full list of icons is <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>."
+msgstr "Ejemplo: <strong>fa-android</strong>. La lista completa de iconos está <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">aquí</a>."
